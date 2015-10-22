@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="847a49ea-17e8-43f9-b7f9-6d1a71770f66" name="Default" comment="added dch_forge_mod as example">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/src/main/resources/assets/oremod/textures/blocks/ore/Ore_Craftium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/resources/assets/oremod/textures/blocks/ore/Ore_Craftium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/src/main/resources/assets/oremod/textures/items/craftium_dust.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/resources/assets/oremod/textures/items/craftium_dust.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/05_Ore.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/05_Ore_Solved.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/src/main/java/HelloWorldOre.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/java/ItemCraftiumDust.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/src/main/java/OreCraftium.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/java/OreCraftium.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/java/OreMod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/src/main/java/WorldGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/java/WorldGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/src/main/resources/assets/oremod/lang/en_US.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/resources/assets/oremod/lang/en_US.lang" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/level.dat" afterPath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/level.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/level.dat_old" afterPath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/level.dat_old" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/region/r.0.0.mca" afterPath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/region/r.0.0.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/session.lock" afterPath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/session.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10_FirstCompleteMod_Example/10_FirstCompleteMod_Example.iml" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/10_FirstCompleteMod_Example.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dch_hack1ngD4ys_workshop.ipr" afterPath="$PROJECT_DIR$/dch_hack1ngD4ys_workshop.ipr" />
+    <list default="true" id="847a49ea-17e8-43f9-b7f9-6d1a71770f66" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dch_hack1ngD4ys_workshop.iws" afterPath="$PROJECT_DIR$/dch_hack1ngD4ys_workshop.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-client-1.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-client-2.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-client-3.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-client-latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-junk-earlystartup.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/logs/latest.log" afterPath="$PROJECT_DIR$/01_Command_Solved/run/logs/latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/config/splash.properties" afterPath="$PROJECT_DIR$/01_Command_Solved/run/config/splash.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/usernamecache.json" afterPath="$PROJECT_DIR$/01_Command_Solved/run/usernamecache.json" />
     </list>
     <ignored path="dch_hackingDays_workshop_intelliJ.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -117,60 +89,6 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
             </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="dch_hack1ng_d4ys_workshop" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":05_Ore_Solved" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="dch_hack1ng_d4ys_workshop" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":05_Ore_Solved" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-            </PATH>
-            <PATH>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="dch_hack1ng_d4ys_workshop" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value=":05_Ore_Solved" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="Tasks" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
-              </PATH_ELEMENT>
-              <PATH_ELEMENT>
-                <option name="myItemId" value="forgegradle" />
-                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
-              </PATH_ELEMENT>
-            </PATH>
           </tree_state>
         </projects_view>
       </state>
@@ -191,14 +109,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OreMod.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OreMod.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05_Ore_Solved/src/main/java/OreMod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15283018">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.028301887">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -6261,7 +6189,6 @@
         <option value="$PROJECT_DIR$/04_TileEntity/build.gradle" />
         <option value="$PROJECT_DIR$/04_TileEntity_Solved/build.gradle" />
         <option value="$PROJECT_DIR$/10_FirstCompleteMod/build.gradle" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/forgemod/GUI/GUIID.java" />
         <option value="$PROJECT_DIR$/10_FirstCompleteMod_Example/build.gradle" />
         <option value="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/DigitalCraftingHabitatMod.java" />
@@ -6275,6 +6202,7 @@
         <option value="$PROJECT_DIR$/05_Ore/src/api/java/WorldGen.java" />
         <option value="$PROJECT_DIR$/05_Ore/src/main/java/HelloWorldOre.java" />
         <option value="$PROJECT_DIR$/05_Ore_Solved/src/main/java/OreMod.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -6388,67 +6316,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="05_Ore_Solved" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dch_hack1ngD4ys_workshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dch_hack1ng_d4ys_workshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="05_Ore_Solved" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oremod" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dch_hack1ngD4ys_workshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dch_hack1ng_d4ys_workshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="05_Ore_Solved" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
+              <option name="myItemId" value="05_Ore" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -6886,7 +6754,7 @@
       <workItem from="1445517978458" duration="688000" />
       <workItem from="1445518956446" duration="113000" />
       <workItem from="1445519869817" duration="1955000" />
-      <workItem from="1445522097913" duration="3768000" />
+      <workItem from="1445522097913" duration="4354000" />
     </task>
     <task id="LOCAL-00001" summary="edit gitignore">
       <created>1445520363281</created>
@@ -6906,11 +6774,17 @@
       <option name="project" value="LOCAL" />
       <updated>1445520519777</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added Ores">
+      <created>1445527679725</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1445527679725</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18481000" />
+    <option name="totallyTimeSpent" value="19067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -6929,12 +6803,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25035766" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25035766" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22603719" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22603719" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32771084" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -6943,7 +6818,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="BuildWatcher" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -6962,7 +6836,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edit gitignore" />
     <MESSAGE value="added dch_forge_mod as example" />
-    <option name="LAST_COMMIT_MESSAGE" value="added dch_forge_mod as example" />
+    <MESSAGE value="added Ores" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Ores" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -7147,14 +7022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31132075">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -7364,11 +7231,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05_Ore_Solved/src/main/java/OreMod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15283018">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028301887">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
