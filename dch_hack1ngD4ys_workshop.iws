@@ -2,89 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="847a49ea-17e8-43f9-b7f9-6d1a71770f66" name="Default" comment="added dch_forge_mod as example">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/event/producer/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mods_template/CodeChickenCore-1.7.10-1.0.6.43-universal.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mods_template/1.7.10/CodeChickenLib-1.7.10-1.1.3.136-dev.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/digitalcraftinghabitat/textures/blocks/ore/Craftstone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mods_template/ic2/EJML-core-0.26.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/minecraft/GUIBackground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mods_template/InventoryTweaks-1.59-dev-152.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mods_template/NEIIntegration-MC1.7.10-1.0.11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mods_template/NotEnoughItems-1.7.10-1.0.4.107-universal.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mods_template/NotEnoughResources-1.7.10-0.1.0.101.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/digitalcraftinghabitat/textures/blocks/ore/Ore_Craftium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mods_template/Waila-1.5.10_1.7.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/lib/buildcraft-7.0.19.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/digitalcraftinghabitat/textures/gui/crafting_engine_gui.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/digitalcraftinghabitat/textures/items/craftiumCoal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/digitalcraftinghabitat/textures/items/craftiumIngot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/digitalcraftinghabitat/textures/items/craftium_dust.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/digitalcraftinghabitat/textures/blocks/ore/craftium_nether.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/digitalcraftinghabitat/dch_logo_block.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/digitalcraftinghabitat/textures/blocks/ore/dch_logo_block.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/digitalcraftinghabitat/textures/blocks/ore/dch_logo_block_glow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/digitalcraftinghabitat/textures/blocks/ore/dch_logo_block_new.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/lib/industrialcraft-2-2.2.757-experimental-dev.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mods_template/neiaddons-1.12.11.36-mc1.7.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mods_template/worldedit-forge-mc1.7.10-6.0-beta-01.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/block/BlockController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/block/BlockCraftium.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/event/consumer/BreakMessageEventConsumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/block/ControllerRefreshThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/core/CraftCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/block/CraftingLever.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/block/CraftingRedStoneConnector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/util/DCHConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/util/DCHLog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/util/DCHUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/datahub/client/DatahubClientConnector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/DigitalCraftingHabitatMod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/item/DustCraftium.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/block/EnergyBlock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/block/EnergyTile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/GUI/GUIID.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/GUI/GuiContainerMod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/GUI/GuiHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/GUI/GuiWindow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/item/ItemBlockCraftium.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/item/ItemCraftiumCoal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/item/ItemIngotCraftium.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/block/OreCraftium.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/tileentity/RedisValueEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/RefStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/Start.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/core/TabDigitalCraftingHabitat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/event/consumer/ValueUpdateEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/event/WorldGen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/astyle.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/digitalcraftinghabitat/lang/de_DE.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/assets/digitalcraftinghabitat/lang/en_US.lang" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/exceptor.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/fields.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources/mcmod.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/mcp_merge.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/methods.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/minecraft_ff/net.minecraft.client.Minecraft.java.patch.2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/minecraft_ff/net.minecraft.client.Minecraft.java.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/minecraft_ff/net.minecraft.client.gui.FontRenderer.java.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/minecraft_ff/net.minecraft.client.network.NetHandlerHandshakeMemory.java.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/minecraft_ff/net.minecraft.client.particle.EffectRenderer.java.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/minecraft_ff/net.minecraft.client.renderer.RenderBlocks.java.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/minecraft_ff/net.minecraft.client.renderer.RenderGlobal.java.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/minecraft_ff/net.minecraft.client.renderer.texture.TextureManager.java.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/minecraft_ff/net.minecraft.client.resources.FolderResourcePack.java.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/minecraft_ff/net.minecraft.inventory.ContainerPlayer.java.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/minecraft_ff/net.minecraft.network.PacketBuffer.java.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/minecraft_ff/net.minecraft.world.storage.ThreadedFileIOBase.java.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/packaged.exc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/packaged.srg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/params.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/src/main/resources/assets/oremod/textures/blocks/ore/Ore_Craftium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/resources/assets/oremod/textures/blocks/ore/Ore_Craftium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/src/main/resources/assets/oremod/textures/items/craftium_dust.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/resources/assets/oremod/textures/items/craftium_dust.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/05_Ore.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/05_Ore_Solved.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/src/main/java/HelloWorldOre.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/java/ItemCraftiumDust.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/src/main/java/OreCraftium.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/java/OreCraftium.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/java/OreMod.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/src/main/java/WorldGen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/java/WorldGen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore/src/main/resources/assets/oremod/lang/en_US.lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_Ore_Solved/src/main/resources/assets/oremod/lang/en_US.lang" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/level.dat" afterPath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/level.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/level.dat_old" afterPath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/level.dat_old" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/region/r.0.0.mca" afterPath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/region/r.0.0.mca" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/session.lock" afterPath="$PROJECT_DIR$/01_Command_Solved/run/saves/New World/session.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10_FirstCompleteMod_Example/10_FirstCompleteMod_Example.iml" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/10_FirstCompleteMod_Example.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10_FirstCompleteMod_Example/build.gradle" afterPath="$PROJECT_DIR$/10_FirstCompleteMod_Example/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dch_hack1ngD4ys_workshop.ipr" afterPath="$PROJECT_DIR$/dch_hack1ngD4ys_workshop.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dch_hack1ngD4ys_workshop.iws" afterPath="$PROJECT_DIR$/dch_hack1ngD4ys_workshop.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-client-1.log" />
@@ -93,6 +30,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-client-latest.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/01_Command_Solved/run/logs/fml-junk-earlystartup.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/logs/latest.log" afterPath="$PROJECT_DIR$/01_Command_Solved/run/logs/latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/config/splash.properties" afterPath="$PROJECT_DIR$/01_Command_Solved/run/config/splash.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_Command_Solved/run/usernamecache.json" afterPath="$PROJECT_DIR$/01_Command_Solved/run/usernamecache.json" />
     </list>
@@ -121,6 +59,10 @@
     <ignored path="$PROJECT_DIR$/10_FirstCompleteMod_Example/build/" />
     <ignored path="$PROJECT_DIR$/10_FirstCompleteMod/.gradle/" />
     <ignored path="$PROJECT_DIR$/10_FirstCompleteMod/build/" />
+    <ignored path="$PROJECT_DIR$/05_Ore/.gradle/" />
+    <ignored path="$PROJECT_DIR$/05_Ore/build/" />
+    <ignored path="$PROJECT_DIR$/05_Ore_Solved/.gradle/" />
+    <ignored path="$PROJECT_DIR$/05_Ore_Solved/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -157,6 +99,12 @@
         <task path="$PROJECT_DIR$/10_FirstCompleteMod_Example">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/05_Ore_Solved">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/05_Ore">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <PATH>
@@ -169,6 +117,60 @@
                 <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
               </PATH_ELEMENT>
             </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="dch_hack1ng_d4ys_workshop" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value=":05_Ore_Solved" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="dch_hack1ng_d4ys_workshop" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value=":05_Ore_Solved" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="dch_hack1ng_d4ys_workshop" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value=":05_Ore_Solved" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ModuleNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="forgegradle" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
+              </PATH_ELEMENT>
+            </PATH>
           </tree_state>
         </projects_view>
       </state>
@@ -179,36 +181,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DigitalCraftingHabitatMod.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/DigitalCraftingHabitatMod.java">
+      <file leaf-file-name="OreCraftium.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_Ore_Solved/src/main/java/OreCraftium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.72761196">
-              <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OreMod.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05_Ore_Solved/src/main/java/OreMod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.15283018">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3069#3070#0" expanded="true" />
-                <element signature="e#3136#3137#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_FirstCompleteMod_Example/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="astyle.cfg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/astyle.cfg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -238,24 +228,32 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value=":03_Item" />
-                <option name="path" value="$PROJECT_DIR$/03_Item" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
                 <option name="name" value=":10_FirstCompleteMod_Example" />
                 <option name="path" value="$PROJECT_DIR$/10_FirstCompleteMod_Example" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value=":04_TileEntity" />
-                <option name="path" value="$PROJECT_DIR$/04_TileEntity" />
+                <option name="name" value=":01_Command" />
+                <option name="path" value="$PROJECT_DIR$/01_Command" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":02_Block_Solved" />
                 <option name="path" value="$PROJECT_DIR$/02_Block_Solved" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value=":01_Command" />
-                <option name="path" value="$PROJECT_DIR$/01_Command" />
+                <option name="name" value=":01_Command_Solved" />
+                <option name="path" value="$PROJECT_DIR$/01_Command_Solved" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":03_Item_Solved" />
+                <option name="path" value="$PROJECT_DIR$/03_Item_Solved" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":03_Item" />
+                <option name="path" value="$PROJECT_DIR$/03_Item" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":04_TileEntity" />
+                <option name="path" value="$PROJECT_DIR$/04_TileEntity" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":02_Block" />
@@ -270,12 +268,12 @@
                 <option name="path" value="$PROJECT_DIR$/10_FirstCompleteMod" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value=":01_Command_Solved" />
-                <option name="path" value="$PROJECT_DIR$/01_Command_Solved" />
+                <option name="name" value=":05_Ore" />
+                <option name="path" value="$PROJECT_DIR$/05_Ore" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value=":03_Item_Solved" />
-                <option name="path" value="$PROJECT_DIR$/03_Item_Solved" />
+                <option name="name" value=":05_Ore_Solved" />
+                <option name="path" value="$PROJECT_DIR$/05_Ore_Solved" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value="dch_hack1ng_d4ys_workshop" />
@@ -2803,6 +2801,564 @@
             </list>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/05_Ore">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="apiClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="applyBinPatches" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleares the ForgeGradle cache. DONT RUN THIS unless you want a fresh start, or the dev tells you to." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="cleanCache" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'api:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="compileApiJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the Minecraft client in debug mode" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="debugClient" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the Minecraft serevr in debug mode" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="debugServer" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="decompile" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="deobfBinJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="deobfuscateJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="downloadClient" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="downloadMcpTools" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="downloadServer" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="extractMcpData" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="extractMinecraftSrc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="extractNatives" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="extractUserDev" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="genIntellijRuns" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="genSrgs" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="getAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="getAssetsIndex" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="getVersionJson" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="install" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="makeStart" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="mergeJars" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'api:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="processApiResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="processSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="recompMinecraft" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="remapJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="reobf" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="repackMinecraft" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the Minecraft client" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="runClient" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the Minecraft Server" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="runServer" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Sets up the bare minimum to build a minecraft mod. Idea for CI servers" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="setupCIWorkspace" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="DevWorkspace + the deobfuscated Minecraft source linked as a source jar." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="setupDecompWorkspace" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="CIWorkspace + natives and assets to run and test Minecraft" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="setupDevWorkspace" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="sourceMainJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uploads all artifacts belonging to configuration ':05_Ore:archives'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore" />
+                <option name="name" value="uploadArchives" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/05_Ore_Solved">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'api'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="apiClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="applyBinPatches" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleares the ForgeGradle cache. DONT RUN THIS unless you want a fresh start, or the dev tells you to." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="cleanCache" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'api:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="compileApiJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the Minecraft client in debug mode" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="debugClient" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the Minecraft serevr in debug mode" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="debugServer" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="decompile" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="deobfBinJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="deobfuscateJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="downloadClient" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="downloadMcpTools" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="downloadServer" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="extractMcpData" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="extractMinecraftSrc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="extractNatives" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="extractUserDev" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="genIntellijRuns" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="genSrgs" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="getAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="getAssetsIndex" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="getVersionJson" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="install" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="makeStart" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="mergeJars" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'api:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="processApiResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="processSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="recompMinecraft" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="remapJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="reobf" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="repackMinecraft" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the Minecraft client" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="runClient" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the Minecraft Server" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="runServer" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Sets up the bare minimum to build a minecraft mod. Idea for CI servers" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="setupCIWorkspace" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="DevWorkspace + the deobfuscated Minecraft source linked as a source jar." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="setupDecompWorkspace" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="CIWorkspace + natives and assets to run and test Minecraft" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="setupDevWorkspace" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="sourceMainJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uploads all artifacts belonging to configuration ':05_Ore_Solved:archives'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+                <option name="name" value="uploadArchives" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/10_FirstCompleteMod">
           <value>
             <list>
@@ -3377,7 +3933,7 @@
         <entry key="$PROJECT_DIR$/../ForgeMod" value="1434283392000" />
         <entry key="$PROJECT_DIR$/../[1.7.10]PreventNether" value="1433894984000" />
         <entry key="$PROJECT_DIR$/../dch_forge_mod" value="1442321166000" />
-        <entry key="$PROJECT_DIR$" value="17346239781000" />
+        <entry key="$PROJECT_DIR$" value="20237291975000" />
         <entry key="$PROJECT_DIR$/../industrialCraft" value="1442960703000" />
       </map>
     </option>
@@ -4891,6 +5447,340 @@
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
+                  <entry key="$PROJECT_DIR$/05_Ore">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forgeSrc-1.7.10-10.13.4.1448-1.7.10.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraft/launchwrapper/1.11/9c0592c6e1e9ea296a70948081bd4cc84dda1289/launchwrapper-1.11.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-debug-all-5.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/5.0.3/f9e364ae2a66ce2a543012a4668856e84e5dab74/asm-debug-all-5.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.3.3/9dbceb71c4fd943b4eb4607847261075a989d47f/akka-actor_2.11-2.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.3.3/ed62e9fc709ca0f2ff1a3220daa8b70a2870078e/akka-actor_2.11-2.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.2.1/bdacf4f82ce9b29cd474bfde2e91eeb0ca623d28/config-1.2.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.2.1/f771f71fdae3df231bcd54d5ca2d57f0bf93f467/config-1.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-actors-migration_2.11/1.1.0/6bccac72dae4d369537e313d12087c1ca295e84f/scala-actors-migration_2.11-1.1.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-actors-migration_2.11/1.1.0/dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f/scala-actors-migration_2.11-1.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.1/b031d401aabbf7f5f725db500575da3dff90065f/scala-compiler-2.11.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.1/56ea2e6c025e0821f28d73ca271218b8dd04926a/scala-compiler-2.11.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.plugins/scala-continuations-library_2.11/1.0.2/495afc106eeaa1b3367f6be0bc3768c398e4d360/scala-continuations-library_2.11-1.0.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.plugins/scala-continuations-library_2.11/1.0.2/e517c53a7e9acd6b1668c5a35eccbaa3bab9aac/scala-continuations-library_2.11-1.0.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.plugins/scala-continuations-plugin_2.11.1/1.0.2/c6f3c092ab731f3cf83fdb376ebc465a243c1f4c/scala-continuations-plugin_2.11.1-1.0.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.plugins/scala-continuations-plugin_2.11.1/1.0.2/f361a3283452c57fa30c1ee69448995de23c60f7/scala-continuations-plugin_2.11.1-1.0.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.1/8355e4b6841f772a287167666bad6e9860ac4d3c/scala-library-2.11.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.1/e11da23da3eabab9f4777b9220e60d44c1aab6a/scala-library-2.11.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-parser-combinators_2.11/1.0.1/f05d7345bf5a58924f2837c6c1f4d73a938e1ff0/scala-parser-combinators_2.11-1.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.1/d4c5628e197a0d6af8e9b93a9be32190c547bc8a/scala-reflect-2.11.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.1/6580347e61cc7f8e802941e7fde40fa83b8badeb/scala-reflect-2.11.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-swing_2.11/1.0.1/b1cdd92bd47b1e1837139c1c53020e86bb9112ae/scala-swing_2.11-1.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-xml_2.11/1.0.2/7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0/scala-xml_2.11-1.0.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.5/3cf4c3c1a6f565419bfd53a0e564d6fb128deeea/jopt-simple-4.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.5/6065cc95c661255349c1d0756657be17c29a4fd3/jopt-simple-4.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/lzma/lzma/0.0.1/521616dc7487b42bef0e803bd2fa3faf668101d7/lzma-0.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/realms/1.3.5/807ae355ee63583becd7ea60e76aab1532bb42e/realms-1.3.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.8.1/3caea4421428752206c7a94c3e3097f0c47f1bb8/commons-compress-1.8.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.8.1/a698750c16740fd5b3871425f4cb3bbaa87f529d/commons-compress-1.8.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.3.3/65cba03c4f6207f2885f88206fcf52c53f8d111b/httpclient-4.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.3.3/18f4247ff4572a074444572cee34647c43e7c9c7/httpclient-4.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/28bb0405fddaf04f15058fbfbe01fe2780d7d3b6/commons-logging-1.1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/4809f38359edeea9487f747e09aa58ec8d3a54c5/httpcore-4.3.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/31fbbff1ddbf98f3aa7377c94d33b0447c646b6e/httpcore-4.3.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/java3d/vecmath/1.3.1/a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d/vecmath-1.3.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/3.0.3/109c5be93362e6e651e417c51d1863477a22969c/trove4j-3.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/3.0.3/42ccaf4761f0dfdfa805c9e340d99a755907e2dd/trove4j-3.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j-core-mojang/51.2/63d216a9311cca6be337c1e458e587f99d382b84/icu4j-core-mojang-51.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulscode/codecjorbis/20101023/c73b5636faf089d9f00e8732a829577de25237ee/codecjorbis-20101023.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulscode/codecwav/20101023/12f031cfe88fef5c1dd36c563c0a3a69bd7261da/codecwav-20101023.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulscode/libraryjavasound/20101123/5c5e304366f75f9eaa2e8cca546a1fb6109348b3/libraryjavasound-20101123.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulscode/librarylwjglopenal/20100824/73e80d0794c39665aec3f62eee88ca91676674ef/librarylwjglopenal-20100824.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulscode/soundsystem/20120107/419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6/soundsystem-20120107.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9e50bd52ffe257a0e2cd8d971688d6ce7d174325/netty-all-4.0.10.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/7ca0efbeb87ca845b5d7a0ac9c21a4b7b95f7b28/guava-17.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/9c6ef172e8de35fd8d4d8783e4821e57cdef7445/guava-17.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/d2a489573c0ed2c4942b3660decad5d65087b406/commons-lang3-3.3.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/90a3822c38ec8c996e84c16a3477ef632cbc87a3/commons-lang3-3.3.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/f2d8698c46d1167ff24b06a840a87d91a02db891/commons-io-2.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/3f15fff45d57656685abfee9e8302bf14580044c/commons-codec-1.9-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/9ce04e34240f674bc72680f8b843b1457383161a/commons-codec-1.9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/82604cfeb87b9ab70ed70aa19a137de8ceb21504/jinput-2.0.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/39c7796b469a600f72380316f6b1f11db6c2c7c4/jinput-2.0.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/d18678a00b216863206a1bb6190507e02a32971b/jutils-1.0.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/e12fe1fda814bd348c1579329c86943d2cd3c6a6/jutils-1.0.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a6dc5db8a12928e583bd3f23e72d3ab611ecd58f/gson-2.2.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/1.5.16/ef1582b11fd0943d069cdcb72e99008ac209a283/authlib-1.5.16.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.0-beta9/c6682b8a47ddd9f29108838aed0dc8e0ffdedf68/log4j-api-2.0-beta9-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.0-beta9/1dd66e68cccd907880229f9e2de1314bd13ff785/log4j-api-2.0-beta9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.0-beta9/c7da50fd52d6ee6991a0e16e2df1431f7656a7f4/log4j-core-2.0-beta9-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.0-beta9/678861ba1b2e1fccb594bb0ca03114bb05da9695/log4j-core-2.0-beta9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl/2.9.1/ccedb5b6f96913c6f78bc10249e747ded90baa51/lwjgl-2.9.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl/2.9.1/f58c5aabcef0e41718a564be9f8e412fff8db847/lwjgl-2.9.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl_util/2.9.1/9f350d8a760247f2ae88e996b55f8f7121346c79/lwjgl_util-2.9.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl_util/2.9.1/290d7ba8a1bd9566f5ddf16ad06f09af5ec9b20e/lwjgl_util-2.9.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.twitch/twitch/5.16/1f55f009c61637c10c0acfb8b5ffc600f30044b4/twitch-5.16.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-actors/2.11.0/e1dfa274766d5278166b0d660294fe96396693b2/scala-actors-2.11.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-actors/2.11.0/8ccfb6541de179bb1c4d45cf414acee069b7f78b/scala-actors-2.11.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.2/312c3557d1ca0b34820f3b3fc5404a47936ceb26/scala-xml_2.11-1.0.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.2/820fbca7e524b530fdadc594c39d49a21ea0337e/scala-xml_2.11-1.0.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.1/34d013c02d0b73794ba2911552896dd9c00f34c3/scala-parser-combinators_2.11-1.0.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.1/f05d7345bf5a58924f2837c6c1f4d73a938e1ff0/scala-parser-combinators_2.11-1.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/7ff832a6eb9ab6a767f1ade2b548092d0fa64795/jinput-platform-2.0.5-natives-linux.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/385ee093e01f587f30ee1c8a2ee7d408fd732e16/jinput-platform-2.0.5-natives-windows.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/53f9c919f34d2ca9de8c51fc4e1e8282029a9232/jinput-platform-2.0.5-natives-osx.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.twitch/twitch-platform/5.16/7c6affe439099806a4f552da14c42f9d643d8b23/twitch-platform-5.16-natives-windows-32.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.twitch/twitch-platform/5.16/39d0c3d363735b4785598e0e7fbf8297c706a9f9/twitch-platform-5.16-natives-windows-64.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.twitch/twitch-platform/5.16/62503ee712766cf77f97252e5902786fd834b8c5/twitch-platform-5.16-natives-osx.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.twitch/twitch-external-platform/4.5/18215140f010c05b9f86ef6f0f8871954d2ccebf/twitch-external-platform-4.5-natives-windows-32.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.twitch/twitch-external-platform/4.5/c3cde57891b935d41b6680a9c5e1502eeab76d86/twitch-external-platform-4.5-natives-windows-64.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.1/4c517eca808522457dd95ee8fc1fbcdbb602efbe/lwjgl-platform-2.9.1-natives-windows.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.1/aa9aae879af8eb378e22cfc64db56ec2ca9a44d1/lwjgl-platform-2.9.1-natives-linux.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.1/2d12c83fdfbc04ecabf02c7bc8cc54d034f0daac/lwjgl-platform-2.9.1-natives-osx.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge.gradle/ForgeGradle/1.2-SNAPSHOT/11896a5fc302b2f7f1ad8803ef71cdd9588cca7d/ForgeGradle-1.2-SNAPSHOT.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.oceanlabs.mcp/RetroGuard/3.6.6/ffd69fcab06b928cf76144f08b7209ccf0656b6d/RetroGuard-3.6.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.3/235993117036d44d126f76db9ea2202ee4884682/opencsv-2.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.3/c23708cdb9e80a144db433e23344a788a1fd6599/opencsv-2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jponge/lzma-java/1.3/c0f18880fb29c7bfc088a6e114c66fe30a5e8df2/lzma-java-1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jponge/lzma-java/1.3/a25db9d4d385ccda4825ae1b47a7a61d86e595af/lzma-java-1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.abrarsyed.jastyle/jAstyle/1.2/bad0011af16ee457fdfe30ab9683f278da0e8a39/jAstyle-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.abrarsyed.jastyle/jAstyle/1.2/642eada5efeb315295e21a5aea384b68dd191e5f/jAstyle-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/2.1.0/3d51239e46537fc45dd18c639cc29bbc4e390326/trove4j-2.1.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/2.1.0/c82f2749a460b95de4c9d2466b62f18c23c7c914/trove4j-2.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudbees/diff4j/1.1/e01e5168c15a325a548be3a0d18af5eac6f6343f/diff4j-1.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudbees/diff4j/1.1/645329c0d4ebbea5f73758929c6e63bab9e77204/diff4j-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/SpecialSource/1.7.3/2d7048afb54a4e8211a0e1b1d9616d2c7da077b0/SpecialSource-1.7.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/SpecialSource/1.7.3/43f9434f08b3647affccfd151a9b437e07e6bff0/SpecialSource-1.7.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/named-regexp/0.2.3/74e99674da3dcbd04e30fc62e164073b4d95e8b9/named-regexp-0.2.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/named-regexp/0.2.3/370846bf3837952d981deb8f91e81da8c65b09e1/named-regexp-0.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nothome/javaxdelta/2.0.1/c99bfecfaa91279b8a3d7d25a99cbbda107c903d/javaxdelta-2.0.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nothome/javaxdelta/2.0.1/d4f5d077f1b15c6f67595015d69572303ad3f66d/javaxdelta-2.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge.srg2source/Srg2Source/3.2-SNAPSHOT/32d836d3f8196348cef44699d6dbcfb8b459c9e8/Srg2Source-3.2-SNAPSHOT-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge.srg2source/Srg2Source/3.2-SNAPSHOT/1b66b012733f12d052e18b0b71581acfdca53ee8/Srg2Source-3.2-SNAPSHOT.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/ad97fe8faaf01a3d3faacecd58e8fa6e78a973ca/guava-18.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.3.3/884b613cfc42948ad5d4cf507286ffe19592ebed/httpmime-4.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.3.3/e02368d7b56c0c376f227378a4f77de62864d020/httpmime-4.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.oceanlabs.mcp/mcinjector/3.2-SNAPSHOT/edce969ee85a6402825b1e5d23e67b645852e912/mcinjector-3.2-SNAPSHOT.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.localizer/localizer/1.12/261a0e844fe30de1c30372135275fa0b299bdee4/localizer-1.12-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.localizer/localizer/1.12/6d456886a035b2c3f758059da1f91a823eaa4a62/localizer-1.12.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/1.4/48753e43ff29409fbbeadfb36186cbe27e41b179/commons-io-1.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/1.4/a8762d07e76cfde2395257a5da47ba7c1dbd3dce/commons-io-1.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/trove/trove/1.0.2/112b40581ab9a4d3de4636d49985a7f686d181c8/trove-1.0.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt/org.eclipse.jdt.core/3.10.0.v20131029-1755/9d27d8ac8d6be6b10dffd5101d5e9b893455f0b0/org.eclipse.jdt.core-3.10.0.v20131029-1755.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/resources/3.2.1-R32x_v20060914/af7df4abd126286417df7e36feb35f956f0908b8/resources-3.2.1-R32x_v20060914.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/common/3.6.200-v20130402-1505/535d61655de849617e3889dda4b77c55d3fb5343/common-3.6.200-v20130402-1505-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/common/3.6.200-v20130402-1505/5354112138f6e420a8152fc9526b15f25ed5f163/common-3.6.200-v20130402-1505.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.text/org.eclipse.text/3.5.101/5ff04e5cad411110121254b80650a42758c4170e/org.eclipse.text-3.5.101-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.text/org.eclipse.text/3.5.101/54a442442c575e6809c18f7dfc848755a58ab955/org.eclipse.text-3.5.101.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/3.2.0.201312181205-r/566b20b4798d9fa31fe33298c493ca9601830b6f/org.eclipse.jgit-3.2.0.201312181205-r-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/3.2.0.201312181205-r/4b99546e8c8a04597b7a4564003e3b554ec12b5c/org.eclipse.jgit-3.2.0.201312181205-r.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/61e9f9d11fe3e12ec62f633006e99d75fd7f19c8/commons-codec-1.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/registry/3.5.400-v20140428-1507/b86352576585731497af4795bd4af76249c5af1f/registry-3.5.400-v20140428-1507-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/registry/3.5.400-v20140428-1507/5f933a7fbea4c96c74c50b4d453e59b3185e6aec/registry-3.5.400-v20140428-1507.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core.runtime/compatibility/3.1.200-v20070502/8b371f1ce208f82314b6afe9cad768d87d53142c/compatibility-3.1.200-v20070502.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/expressions/3.3.0-v20070606-0010/2477cfaa48dab4512c2b1332538687ceb447eaf8/expressions-3.3.0-v20070606-0010.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/filesystem/1.1.0-v20070606/311d9379367bce428ae8e97ca9708cfd0026ca6d/filesystem-1.1.0-v20070606.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/org.eclipse.core.commands/3.6.0/b2e6f6a01dfad2730c3b7f9368b57f76bf35ae2f/org.eclipse.core.commands-3.6.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/org.eclipse.core.commands/3.6.0/11c16b281bc722e9acb07a0562f0aa6e824d6215/org.eclipse.core.commands-3.6.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/org.eclipse.equinox.common/3.6.0/5f79e3e9a454d4b7255dc5d091c93e03e0c4e488/org.eclipse.equinox.common-3.6.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/org.eclipse.equinox.common/3.6.0/78e5d0b8516b042495660da36ce5114650f8f156/org.eclipse.equinox.common-3.6.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.46/6d5398e8f77831e191c509599042cb974adb19dd/jsch-0.1.46-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.46/f3a38fd1d65c32bd627b1389e7181eb294cc8a8/jsch-0.1.46.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.javaewah/JavaEWAH/0.5.6/a8c94b75fec75e3e4f55212cea1a21773802674e/JavaEWAH-0.5.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.javaewah/JavaEWAH/0.5.6/1207c0fc8552d4f5f574b50f29321d923521128e/JavaEWAH-0.5.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/app/1.3.200-v20130910-1609/f7836fd2015ccf6417770d73320759d696096b7d/app-1.3.200-v20130910-1609-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/app/1.3.200-v20130910-1609/659921d8f404ee6161c29bd6a6798631208c3633/app-1.3.200-v20130910-1609.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.update/configurator/3.2.100-v20070615/1e57b63cb6f349bd96d2d4a6e3679e5838581bdd/configurator-3.2.100-v20070615.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.7/de36746b7253d8de9317e3431103fad35e8e52f5/jopt-simple-4.7-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.7/3e19c15a38d0e864545acf635b1b69bd6e9f016b/jopt-simple-4.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/preferences/3.5.200-v20140224-1527/a89834d258f6aa8a9a2aaa06b97c4fbdb0449537/preferences-3.5.200-v20140224-1527-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/preferences/3.5.200-v20140224-1527/9ea0f3c0b18d0a1e904743b19c2f7c0c7163c61e/preferences-3.5.200-v20140224-1527.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse/osgi/3.10.0-v20140606-1445/4253b66e2ddd79a11236a6d40ad462dd7495d9cc/osgi-3.10.0-v20140606-1445-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse/osgi/3.10.0-v20140606-1445/afe258a6e5d2dcd8fa4c894f53fdc78e49984e3c/osgi-3.10.0-v20140606-1445.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/jobs/3.6.0-v20140424-0053/45933ced4f6afd232def76f4b5e38697e789a3f3/jobs-3.6.0-v20140424-0053-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/jobs/3.6.0-v20140424-0053/4f355c5efd8a39a03f7b0ff4cfcf24b33a968c12/jobs-3.6.0-v20140424-0053.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/contenttype/3.4.200-v20140207-1251/c77cab4b696d4a2faa36a34b4272258013514f95/contenttype-3.4.200-v20140207-1251-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/contenttype/3.4.200-v20140207-1251/db44eacfdced003f806846810b1a62a1066bb8fd/contenttype-3.4.200-v20140207-1251.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/runtime/3.10.0-v20140318-2214/e7538a4cfcafe4b8dbdd83a40fce0294bba09875/runtime-3.10.0-v20140318-2214-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/runtime/3.10.0-v20140318-2214/a537de26c1e322a68536a3a2c3cb2389d5dbcb00/runtime-3.10.0-v20140318-2214.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/05_Ore" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/05_Ore_Solved">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forgeSrc-1.7.10-10.13.4.1448-1.7.10.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraft/launchwrapper/1.11/9c0592c6e1e9ea296a70948081bd4cc84dda1289/launchwrapper-1.11.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-debug-all-5.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/5.0.3/f9e364ae2a66ce2a543012a4668856e84e5dab74/asm-debug-all-5.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.3.3/9dbceb71c4fd943b4eb4607847261075a989d47f/akka-actor_2.11-2.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.11/2.3.3/ed62e9fc709ca0f2ff1a3220daa8b70a2870078e/akka-actor_2.11-2.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.2.1/bdacf4f82ce9b29cd474bfde2e91eeb0ca623d28/config-1.2.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.2.1/f771f71fdae3df231bcd54d5ca2d57f0bf93f467/config-1.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-actors-migration_2.11/1.1.0/6bccac72dae4d369537e313d12087c1ca295e84f/scala-actors-migration_2.11-1.1.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-actors-migration_2.11/1.1.0/dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f/scala-actors-migration_2.11-1.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.1/b031d401aabbf7f5f725db500575da3dff90065f/scala-compiler-2.11.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.1/56ea2e6c025e0821f28d73ca271218b8dd04926a/scala-compiler-2.11.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.plugins/scala-continuations-library_2.11/1.0.2/495afc106eeaa1b3367f6be0bc3768c398e4d360/scala-continuations-library_2.11-1.0.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.plugins/scala-continuations-library_2.11/1.0.2/e517c53a7e9acd6b1668c5a35eccbaa3bab9aac/scala-continuations-library_2.11-1.0.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.plugins/scala-continuations-plugin_2.11.1/1.0.2/c6f3c092ab731f3cf83fdb376ebc465a243c1f4c/scala-continuations-plugin_2.11.1-1.0.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.plugins/scala-continuations-plugin_2.11.1/1.0.2/f361a3283452c57fa30c1ee69448995de23c60f7/scala-continuations-plugin_2.11.1-1.0.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.1/8355e4b6841f772a287167666bad6e9860ac4d3c/scala-library-2.11.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.1/e11da23da3eabab9f4777b9220e60d44c1aab6a/scala-library-2.11.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-parser-combinators_2.11/1.0.1/f05d7345bf5a58924f2837c6c1f4d73a938e1ff0/scala-parser-combinators_2.11-1.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.1/d4c5628e197a0d6af8e9b93a9be32190c547bc8a/scala-reflect-2.11.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.1/6580347e61cc7f8e802941e7fde40fa83b8badeb/scala-reflect-2.11.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-swing_2.11/1.0.1/b1cdd92bd47b1e1837139c1c53020e86bb9112ae/scala-swing_2.11-1.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-xml_2.11/1.0.2/7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0/scala-xml_2.11-1.0.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.5/3cf4c3c1a6f565419bfd53a0e564d6fb128deeea/jopt-simple-4.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.5/6065cc95c661255349c1d0756657be17c29a4fd3/jopt-simple-4.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/lzma/lzma/0.0.1/521616dc7487b42bef0e803bd2fa3faf668101d7/lzma-0.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/realms/1.3.5/807ae355ee63583becd7ea60e76aab1532bb42e/realms-1.3.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.8.1/3caea4421428752206c7a94c3e3097f0c47f1bb8/commons-compress-1.8.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.8.1/a698750c16740fd5b3871425f4cb3bbaa87f529d/commons-compress-1.8.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.3.3/65cba03c4f6207f2885f88206fcf52c53f8d111b/httpclient-4.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.3.3/18f4247ff4572a074444572cee34647c43e7c9c7/httpclient-4.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/28bb0405fddaf04f15058fbfbe01fe2780d7d3b6/commons-logging-1.1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/4809f38359edeea9487f747e09aa58ec8d3a54c5/httpcore-4.3.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.2/31fbbff1ddbf98f3aa7377c94d33b0447c646b6e/httpcore-4.3.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/java3d/vecmath/1.3.1/a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d/vecmath-1.3.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/3.0.3/109c5be93362e6e651e417c51d1863477a22969c/trove4j-3.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/3.0.3/42ccaf4761f0dfdfa805c9e340d99a755907e2dd/trove4j-3.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j-core-mojang/51.2/63d216a9311cca6be337c1e458e587f99d382b84/icu4j-core-mojang-51.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulscode/codecjorbis/20101023/c73b5636faf089d9f00e8732a829577de25237ee/codecjorbis-20101023.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulscode/codecwav/20101023/12f031cfe88fef5c1dd36c563c0a3a69bd7261da/codecwav-20101023.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulscode/libraryjavasound/20101123/5c5e304366f75f9eaa2e8cca546a1fb6109348b3/libraryjavasound-20101123.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulscode/librarylwjglopenal/20100824/73e80d0794c39665aec3f62eee88ca91676674ef/librarylwjglopenal-20100824.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.paulscode/soundsystem/20120107/419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6/soundsystem-20120107.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9e50bd52ffe257a0e2cd8d971688d6ce7d174325/netty-all-4.0.10.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/7ca0efbeb87ca845b5d7a0ac9c21a4b7b95f7b28/guava-17.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/9c6ef172e8de35fd8d4d8783e4821e57cdef7445/guava-17.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/d2a489573c0ed2c4942b3660decad5d65087b406/commons-lang3-3.3.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/90a3822c38ec8c996e84c16a3477ef632cbc87a3/commons-lang3-3.3.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/f2d8698c46d1167ff24b06a840a87d91a02db891/commons-io-2.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/3f15fff45d57656685abfee9e8302bf14580044c/commons-codec-1.9-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/9ce04e34240f674bc72680f8b843b1457383161a/commons-codec-1.9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/82604cfeb87b9ab70ed70aa19a137de8ceb21504/jinput-2.0.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/39c7796b469a600f72380316f6b1f11db6c2c7c4/jinput-2.0.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/d18678a00b216863206a1bb6190507e02a32971b/jutils-1.0.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/e12fe1fda814bd348c1579329c86943d2cd3c6a6/jutils-1.0.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a6dc5db8a12928e583bd3f23e72d3ab611ecd58f/gson-2.2.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/1.5.16/ef1582b11fd0943d069cdcb72e99008ac209a283/authlib-1.5.16.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.0-beta9/c6682b8a47ddd9f29108838aed0dc8e0ffdedf68/log4j-api-2.0-beta9-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.0-beta9/1dd66e68cccd907880229f9e2de1314bd13ff785/log4j-api-2.0-beta9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.0-beta9/c7da50fd52d6ee6991a0e16e2df1431f7656a7f4/log4j-core-2.0-beta9-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.0-beta9/678861ba1b2e1fccb594bb0ca03114bb05da9695/log4j-core-2.0-beta9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl/2.9.1/ccedb5b6f96913c6f78bc10249e747ded90baa51/lwjgl-2.9.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl/2.9.1/f58c5aabcef0e41718a564be9f8e412fff8db847/lwjgl-2.9.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl_util/2.9.1/9f350d8a760247f2ae88e996b55f8f7121346c79/lwjgl_util-2.9.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl_util/2.9.1/290d7ba8a1bd9566f5ddf16ad06f09af5ec9b20e/lwjgl_util-2.9.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.twitch/twitch/5.16/1f55f009c61637c10c0acfb8b5ffc600f30044b4/twitch-5.16.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-actors/2.11.0/e1dfa274766d5278166b0d660294fe96396693b2/scala-actors-2.11.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-actors/2.11.0/8ccfb6541de179bb1c4d45cf414acee069b7f78b/scala-actors-2.11.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.2/312c3557d1ca0b34820f3b3fc5404a47936ceb26/scala-xml_2.11-1.0.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.2/820fbca7e524b530fdadc594c39d49a21ea0337e/scala-xml_2.11-1.0.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.1/34d013c02d0b73794ba2911552896dd9c00f34c3/scala-parser-combinators_2.11-1.0.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.1/f05d7345bf5a58924f2837c6c1f4d73a938e1ff0/scala-parser-combinators_2.11-1.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/7ff832a6eb9ab6a767f1ade2b548092d0fa64795/jinput-platform-2.0.5-natives-linux.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/385ee093e01f587f30ee1c8a2ee7d408fd732e16/jinput-platform-2.0.5-natives-windows.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/53f9c919f34d2ca9de8c51fc4e1e8282029a9232/jinput-platform-2.0.5-natives-osx.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.twitch/twitch-platform/5.16/7c6affe439099806a4f552da14c42f9d643d8b23/twitch-platform-5.16-natives-windows-32.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.twitch/twitch-platform/5.16/39d0c3d363735b4785598e0e7fbf8297c706a9f9/twitch-platform-5.16-natives-windows-64.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.twitch/twitch-platform/5.16/62503ee712766cf77f97252e5902786fd834b8c5/twitch-platform-5.16-natives-osx.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.twitch/twitch-external-platform/4.5/18215140f010c05b9f86ef6f0f8871954d2ccebf/twitch-external-platform-4.5-natives-windows-32.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.twitch/twitch-external-platform/4.5/c3cde57891b935d41b6680a9c5e1502eeab76d86/twitch-external-platform-4.5-natives-windows-64.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.1/4c517eca808522457dd95ee8fc1fbcdbb602efbe/lwjgl-platform-2.9.1-natives-windows.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.1/aa9aae879af8eb378e22cfc64db56ec2ca9a44d1/lwjgl-platform-2.9.1-natives-linux.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.1/2d12c83fdfbc04ecabf02c7bc8cc54d034f0daac/lwjgl-platform-2.9.1-natives-osx.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge.gradle/ForgeGradle/1.2-SNAPSHOT/11896a5fc302b2f7f1ad8803ef71cdd9588cca7d/ForgeGradle-1.2-SNAPSHOT.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.oceanlabs.mcp/RetroGuard/3.6.6/ffd69fcab06b928cf76144f08b7209ccf0656b6d/RetroGuard-3.6.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.3/235993117036d44d126f76db9ea2202ee4884682/opencsv-2.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.opencsv/opencsv/2.3/c23708cdb9e80a144db433e23344a788a1fd6599/opencsv-2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jponge/lzma-java/1.3/c0f18880fb29c7bfc088a6e114c66fe30a5e8df2/lzma-java-1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jponge/lzma-java/1.3/a25db9d4d385ccda4825ae1b47a7a61d86e595af/lzma-java-1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.abrarsyed.jastyle/jAstyle/1.2/bad0011af16ee457fdfe30ab9683f278da0e8a39/jAstyle-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.abrarsyed.jastyle/jAstyle/1.2/642eada5efeb315295e21a5aea384b68dd191e5f/jAstyle-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/2.1.0/3d51239e46537fc45dd18c639cc29bbc4e390326/trove4j-2.1.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/2.1.0/c82f2749a460b95de4c9d2466b62f18c23c7c914/trove4j-2.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudbees/diff4j/1.1/e01e5168c15a325a548be3a0d18af5eac6f6343f/diff4j-1.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudbees/diff4j/1.1/645329c0d4ebbea5f73758929c6e63bab9e77204/diff4j-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/SpecialSource/1.7.3/2d7048afb54a4e8211a0e1b1d9616d2c7da077b0/SpecialSource-1.7.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.md-5/SpecialSource/1.7.3/43f9434f08b3647affccfd151a9b437e07e6bff0/SpecialSource-1.7.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/named-regexp/0.2.3/74e99674da3dcbd04e30fc62e164073b4d95e8b9/named-regexp-0.2.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/named-regexp/0.2.3/370846bf3837952d981deb8f91e81da8c65b09e1/named-regexp-0.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nothome/javaxdelta/2.0.1/c99bfecfaa91279b8a3d7d25a99cbbda107c903d/javaxdelta-2.0.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nothome/javaxdelta/2.0.1/d4f5d077f1b15c6f67595015d69572303ad3f66d/javaxdelta-2.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge.srg2source/Srg2Source/3.2-SNAPSHOT/32d836d3f8196348cef44699d6dbcfb8b459c9e8/Srg2Source-3.2-SNAPSHOT-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge.srg2source/Srg2Source/3.2-SNAPSHOT/1b66b012733f12d052e18b0b71581acfdca53ee8/Srg2Source-3.2-SNAPSHOT.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/ad97fe8faaf01a3d3faacecd58e8fa6e78a973ca/guava-18.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.3.3/884b613cfc42948ad5d4cf507286ffe19592ebed/httpmime-4.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.3.3/e02368d7b56c0c376f227378a4f77de62864d020/httpmime-4.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.oceanlabs.mcp/mcinjector/3.2-SNAPSHOT/edce969ee85a6402825b1e5d23e67b645852e912/mcinjector-3.2-SNAPSHOT.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.localizer/localizer/1.12/261a0e844fe30de1c30372135275fa0b299bdee4/localizer-1.12-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.localizer/localizer/1.12/6d456886a035b2c3f758059da1f91a823eaa4a62/localizer-1.12.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/1.4/48753e43ff29409fbbeadfb36186cbe27e41b179/commons-io-1.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/1.4/a8762d07e76cfde2395257a5da47ba7c1dbd3dce/commons-io-1.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/trove/trove/1.0.2/112b40581ab9a4d3de4636d49985a7f686d181c8/trove-1.0.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt/org.eclipse.jdt.core/3.10.0.v20131029-1755/9d27d8ac8d6be6b10dffd5101d5e9b893455f0b0/org.eclipse.jdt.core-3.10.0.v20131029-1755.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/resources/3.2.1-R32x_v20060914/af7df4abd126286417df7e36feb35f956f0908b8/resources-3.2.1-R32x_v20060914.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/common/3.6.200-v20130402-1505/535d61655de849617e3889dda4b77c55d3fb5343/common-3.6.200-v20130402-1505-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/common/3.6.200-v20130402-1505/5354112138f6e420a8152fc9526b15f25ed5f163/common-3.6.200-v20130402-1505.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.text/org.eclipse.text/3.5.101/5ff04e5cad411110121254b80650a42758c4170e/org.eclipse.text-3.5.101-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.text/org.eclipse.text/3.5.101/54a442442c575e6809c18f7dfc848755a58ab955/org.eclipse.text-3.5.101.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/3.2.0.201312181205-r/566b20b4798d9fa31fe33298c493ca9601830b6f/org.eclipse.jgit-3.2.0.201312181205-r-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/3.2.0.201312181205-r/4b99546e8c8a04597b7a4564003e3b554ec12b5c/org.eclipse.jgit-3.2.0.201312181205-r.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/61e9f9d11fe3e12ec62f633006e99d75fd7f19c8/commons-codec-1.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/registry/3.5.400-v20140428-1507/b86352576585731497af4795bd4af76249c5af1f/registry-3.5.400-v20140428-1507-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/registry/3.5.400-v20140428-1507/5f933a7fbea4c96c74c50b4d453e59b3185e6aec/registry-3.5.400-v20140428-1507.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core.runtime/compatibility/3.1.200-v20070502/8b371f1ce208f82314b6afe9cad768d87d53142c/compatibility-3.1.200-v20070502.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/expressions/3.3.0-v20070606-0010/2477cfaa48dab4512c2b1332538687ceb447eaf8/expressions-3.3.0-v20070606-0010.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/filesystem/1.1.0-v20070606/311d9379367bce428ae8e97ca9708cfd0026ca6d/filesystem-1.1.0-v20070606.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/org.eclipse.core.commands/3.6.0/b2e6f6a01dfad2730c3b7f9368b57f76bf35ae2f/org.eclipse.core.commands-3.6.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/org.eclipse.core.commands/3.6.0/11c16b281bc722e9acb07a0562f0aa6e824d6215/org.eclipse.core.commands-3.6.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/org.eclipse.equinox.common/3.6.0/5f79e3e9a454d4b7255dc5d091c93e03e0c4e488/org.eclipse.equinox.common-3.6.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/org.eclipse.equinox.common/3.6.0/78e5d0b8516b042495660da36ce5114650f8f156/org.eclipse.equinox.common-3.6.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.46/6d5398e8f77831e191c509599042cb974adb19dd/jsch-0.1.46-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.46/f3a38fd1d65c32bd627b1389e7181eb294cc8a8/jsch-0.1.46.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.javaewah/JavaEWAH/0.5.6/a8c94b75fec75e3e4f55212cea1a21773802674e/JavaEWAH-0.5.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.javaewah/JavaEWAH/0.5.6/1207c0fc8552d4f5f574b50f29321d923521128e/JavaEWAH-0.5.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/app/1.3.200-v20130910-1609/f7836fd2015ccf6417770d73320759d696096b7d/app-1.3.200-v20130910-1609-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/app/1.3.200-v20130910-1609/659921d8f404ee6161c29bd6a6798631208c3633/app-1.3.200-v20130910-1609.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.update/configurator/3.2.100-v20070615/1e57b63cb6f349bd96d2d4a6e3679e5838581bdd/configurator-3.2.100-v20070615.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.7/de36746b7253d8de9317e3431103fad35e8e52f5/jopt-simple-4.7-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.7/3e19c15a38d0e864545acf635b1b69bd6e9f016b/jopt-simple-4.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/preferences/3.5.200-v20140224-1527/a89834d258f6aa8a9a2aaa06b97c4fbdb0449537/preferences-3.5.200-v20140224-1527-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/preferences/3.5.200-v20140224-1527/9ea0f3c0b18d0a1e904743b19c2f7c0c7163c61e/preferences-3.5.200-v20140224-1527.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse/osgi/3.10.0-v20140606-1445/4253b66e2ddd79a11236a6d40ad462dd7495d9cc/osgi-3.10.0-v20140606-1445-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse/osgi/3.10.0-v20140606-1445/afe258a6e5d2dcd8fa4c894f53fdc78e49984e3c/osgi-3.10.0-v20140606-1445.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/jobs/3.6.0-v20140424-0053/45933ced4f6afd232def76f4b5e38697e789a3f3/jobs-3.6.0-v20140424-0053-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/jobs/3.6.0-v20140424-0053/4f355c5efd8a39a03f7b0ff4cfcf24b33a968c12/jobs-3.6.0-v20140424-0053.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/contenttype/3.4.200-v20140207-1251/c77cab4b696d4a2faa36a34b4272258013514f95/contenttype-3.4.200-v20140207-1251-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/contenttype/3.4.200-v20140207-1251/db44eacfdced003f806846810b1a62a1066bb8fd/contenttype-3.4.200-v20140207-1251.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/runtime/3.10.0-v20140318-2214/e7538a4cfcafe4b8dbdd83a40fce0294bba09875/runtime-3.10.0-v20140318-2214-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.core/runtime/3.10.0-v20140318-2214/a537de26c1e322a68536a3a2c3cb2389d5dbcb00/runtime-3.10.0-v20140318-2214.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/05_Ore_Solved" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
                   <entry key="$PROJECT_DIR$/10_FirstCompleteMod">
                     <value>
                       <ExternalModuleBuildClasspathPojo>
@@ -5223,6 +6113,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/redis.clients/jedis/2.7.3/5f6b152b43424aed4ace4e545879cf17945d1daa/jedis-2.7.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.3/9e03327e766c3d16ed34a617818ab082192e83a7/commons-pool2-2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.3/62a559a025fd890c30364296ece14643ba9c8c5b/commons-pool2-2.3.jar" />
+                            <option value="$MODULE_DIR$/lib/buildcraft-7.0.19.jar" />
+                            <option value="$MODULE_DIR$/lib/industrialcraft-2-2.2.757-experimental-dev.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.2.RELEASE/a161232eece113ea029a1803a1e7328ce1502e48/dependency-management-plugin-0.5.2.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.2.RELEASE/f90777e7785259bb91811619b2b2b5d9f071ef39/dependency-management-plugin-0.5.2.RELEASE.jar" />
                           </list>
@@ -5373,6 +6265,16 @@
         <option value="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/forgemod/GUI/GUIID.java" />
         <option value="$PROJECT_DIR$/10_FirstCompleteMod_Example/build.gradle" />
         <option value="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/DigitalCraftingHabitatMod.java" />
+        <option value="$PROJECT_DIR$/05_Ore/build.gradle" />
+        <option value="$PROJECT_DIR$/05_Ore_Solved/build.gradle" />
+        <option value="$PROJECT_DIR$/05_Ore/src/main/java/OreCraftium.java" />
+        <option value="$PROJECT_DIR$/05_Ore_Solved/src/main/java/WorldGen.java" />
+        <option value="$PROJECT_DIR$/05_Ore_Solved/src/main/resources/assets/digitalcraftinghabitat/lang/en_US.lang" />
+        <option value="$PROJECT_DIR$/05_Ore_Solved/src/main/java/OreCraftium.java" />
+        <option value="$PROJECT_DIR$/05_Ore_Solved/src/main/java/ItemCraftiumDust.java" />
+        <option value="$PROJECT_DIR$/05_Ore/src/api/java/WorldGen.java" />
+        <option value="$PROJECT_DIR$/05_Ore/src/main/java/HelloWorldOre.java" />
+        <option value="$PROJECT_DIR$/05_Ore_Solved/src/main/java/OreMod.java" />
       </list>
     </option>
   </component>
@@ -5427,7 +6329,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -5472,7 +6374,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="10_FirstCompleteMod_Example" />
+              <option name="myItemId" value="05_Ore_Solved" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -5486,7 +6388,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="10_FirstCompleteMod_Example" />
+              <option name="myItemId" value="05_Ore_Solved" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -5504,33 +6406,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="10_FirstCompleteMod_Example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dch_hack1ngD4ys_workshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dch_hack1ng_d4ys_workshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="10_FirstCompleteMod_Example" />
+              <option name="myItemId" value="05_Ore_Solved" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -5546,11 +6422,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="minecraft" />
+              <option name="myItemId" value="oremod" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -5564,37 +6436,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="10_FirstCompleteMod_Example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dch_hack1ngD4ys_workshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dch_hack1ng_d4ys_workshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="10_FirstCompleteMod_Example" />
+              <option name="myItemId" value="05_Ore_Solved" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -5607,44 +6449,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forgemod" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dch_hack1ngD4ys_workshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dch_hack1ng_d4ys_workshop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="10_FirstCompleteMod_Example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forgemod" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tileentity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -5669,21 +6473,22 @@
     <property name="recentsLimit" value="5" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.19934641" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="dch_hacking&#9;ACTION&#9;ExternalSystem_dch_hackingDays_workshop_intelliJ43f5965801_Command_Solveda1281a20dch_hackingDays_workshop_intelliJ:01_Command_Solved [runClient]" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/05_Ore/src/main/resources" />
+      <recent name="$PROJECT_DIR$/05_Ore_Solved/src/main/resources" />
       <recent name="$PROJECT_DIR$/10_FirstCompleteMod_Example" />
       <recent name="$PROJECT_DIR$/10_FirstCompleteMod_Example/run" />
       <recent name="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/resources" />
-      <recent name="$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java" />
-      <recent name="$PROJECT_DIR$/03_Item_Solved/src/main/resources/assets/helloworlditemsolved/lang" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -5692,47 +6497,11 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.dch_hack1ng_d4ys_workshop:10_FirstCompleteMod_Example [runClient]">
-    <configuration default="false" name="dch_hackingDays_workshop_intelliJ:02_Block [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/02_Block" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="runClient" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Gradle.dch_hack1ng_d4ys_workshop:05_Ore_Solved [runClient]">
     <configuration default="false" name="dch_hackingDays_workshop_intelliJ:01_Command_Solved [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/01_Command_Solved" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="runClient" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="false" name="dch_hackingDays_workshop_intelliJ:02_Block_Solved [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/02_Block_Solved" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -5777,6 +6546,42 @@
         <option name="taskNames">
           <list>
             <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="dch_hack1ng_d4ys_workshop:05_Ore_Solved [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="dch_hack1ng_d4ys_workshop:05_Ore_Solved [debugServer]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/05_Ore_Solved" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="debugServer" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -6042,19 +6847,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Gradle.dch_hackingDays_workshop_intelliJ:02_Block [runClient]" />
-      <item index="1" class="java.lang.String" itemvalue="Gradle.dch_hackingDays_workshop_intelliJ:01_Command_Solved [runClient]" />
-      <item index="2" class="java.lang.String" itemvalue="Gradle.dch_hackingDays_workshop_intelliJ:02_Block_Solved [runClient]" />
-      <item index="3" class="java.lang.String" itemvalue="Gradle.dch_hackingDays_workshop_intelliJ:03_Item_Solved [runClient]" />
-      <item index="4" class="java.lang.String" itemvalue="Gradle.dch_hack1ng_d4ys_workshop:10_FirstCompleteMod_Example [runClient]" />
+      <item index="0" class="java.lang.String" itemvalue="Gradle.dch_hackingDays_workshop_intelliJ:01_Command_Solved [runClient]" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.dch_hackingDays_workshop_intelliJ:03_Item_Solved [runClient]" />
+      <item index="2" class="java.lang.String" itemvalue="Gradle.dch_hack1ng_d4ys_workshop:10_FirstCompleteMod_Example [runClient]" />
+      <item index="3" class="java.lang.String" itemvalue="Gradle.dch_hack1ng_d4ys_workshop:05_Ore_Solved [runClient]" />
+      <item index="4" class="java.lang.String" itemvalue="Gradle.dch_hack1ng_d4ys_workshop:05_Ore_Solved [debugServer]" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Gradle.dch_hack1ng_d4ys_workshop:10_FirstCompleteMod_Example [runClient]" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.dch_hackingDays_workshop_intelliJ:01_Command_Solved [runClient]" />
-        <item index="2" class="java.lang.String" itemvalue="Gradle.dch_hackingDays_workshop_intelliJ:03_Item_Solved [runClient]" />
-        <item index="3" class="java.lang.String" itemvalue="Gradle.dch_hackingDays_workshop_intelliJ:02_Block_Solved [runClient]" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.dch_hackingDays_workshop_intelliJ:02_Block [runClient]" />
+        <item index="0" class="java.lang.String" itemvalue="Gradle.dch_hack1ng_d4ys_workshop:05_Ore_Solved [debugServer]" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.dch_hack1ng_d4ys_workshop:05_Ore_Solved [runClient]" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.dch_hack1ng_d4ys_workshop:10_FirstCompleteMod_Example [runClient]" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.dch_hackingDays_workshop_intelliJ:01_Command_Solved [runClient]" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.dch_hackingDays_workshop_intelliJ:03_Item_Solved [runClient]" />
       </list>
     </recent_temporary>
   </component>
@@ -6081,7 +6886,7 @@
       <workItem from="1445517978458" duration="688000" />
       <workItem from="1445518956446" duration="113000" />
       <workItem from="1445519869817" duration="1955000" />
-      <workItem from="1445522097913" duration="120000" />
+      <workItem from="1445522097913" duration="3768000" />
     </task>
     <task id="LOCAL-00001" summary="edit gitignore">
       <created>1445520363281</created>
@@ -6105,38 +6910,38 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14833000" />
+    <option name="totallyTimeSpent" value="18481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31009614" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25035766" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25035766" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22603719" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32771084" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32771084" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="BuildWatcher" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -6170,108 +6975,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/10_FirstCompleteMod_Example/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_FirstCompleteMod_Example/mcp_config/astyle.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Command_Solved/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Command_Solved/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forgeSrc-1.7.10-10.13.4.1448-1.7.10-sources.jar!/cpw/mods/fml/common/event/FMLInitializationEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19148937">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forgeSrc-1.7.10-10.13.4.1448-1.7.10-sources.jar!/cpw/mods/fml/common/Loader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3319149">
-          <caret line="789" column="0" selection-start-line="789" selection-start-column="0" selection-end-line="789" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forgeSrc-1.7.10-10.13.4.1448-1.7.10-sources.jar!/cpw/mods/fml/common/LoadController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3319149">
-          <caret line="120" column="0" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/7ca0efbeb87ca845b5d7a0ac9c21a4b7b95f7b28/guava-17.0-sources.jar!/com/google/common/eventbus/EventBus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3319149">
-          <caret line="275" column="0" selection-start-line="275" selection-start-column="0" selection-end-line="275" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/7ca0efbeb87ca845b5d7a0ac9c21a4b7b95f7b28/guava-17.0-sources.jar!/com/google/common/eventbus/SynchronizedEventSubscriber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71276593">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/7ca0efbeb87ca845b5d7a0ac9c21a4b7b95f7b28/guava-17.0-sources.jar!/com/google/common/eventbus/EventSubscriber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3319149">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forgeSrc-1.7.10-10.13.4.1448-1.7.10-sources.jar!/cpw/mods/fml/common/FMLModContainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3319149">
-          <caret line="538" column="0" selection-start-line="538" selection-start-column="0" selection-end-line="538" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Block/src/main/java/HelloWorldBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28054863">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_Block/src/main/java/BlockHelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11221945">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forgeSrc-1.7.10-10.13.4.1448-1.7.10-sources.jar!/net/minecraft/block/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3327032">
-          <caret line="770" column="15" selection-start-line="770" selection-start-column="15" selection-end-line="770" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02_Block/src/main/resources/assets/helloworldblocksolved/lang/en_US.lang">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.056710776">
@@ -6283,13 +6986,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4820416">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tutoriallinks.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.056710776">
-          <caret line="2" column="86" selection-start-line="2" selection-start-column="86" selection-end-line="2" selection-end-column="86" />
         </state>
       </provider>
     </entry>
@@ -6412,13 +7108,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_TileEntity/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5463138">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03_Item_Solved/src/main/java/ItemHelloWorldSolved.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34026465">
@@ -6430,13 +7119,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36862004">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Item_Solved/src/main/java/HelloWorldItemSolved.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34026465">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -6531,14 +7213,161 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tutoriallinks.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03731343">
+          <caret line="2" column="86" selection-start-line="2" selection-start-column="86" selection-end-line="2" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_FirstCompleteMod_Example/run/config/digitalcraftinghabitat.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_TileEntity/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43017456">
+          <caret line="23" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Ore_Solved/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4862843">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Ore/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4862843">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Ore_Solved/src/main/java/WorldGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Ore_Solved/src/main/resources/assets/oremod/lang/en_US.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09351621">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/item/ItemCraftiumCoal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="5" selection-start-line="25" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1448-1.7.10/forgeSrc-1.7.10-10.13.4.1448-1.7.10-sources.jar!/net/minecraft/item/ItemStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33207548">
+          <caret line="74" column="11" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="11" />
+          <folding>
+            <element signature="e#2715#2716#0" expanded="false" />
+            <element signature="e#2762#2763#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Ore_Solved/src/main/java/ItemCraftiumDust.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Item_Solved/src/main/java/HelloWorldItemSolved.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14150943">
+          <caret line="9" column="47" selection-start-line="8" selection-start-column="4" selection-end-line="9" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Ore/src/main/java/WorldGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08506616">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Ore/src/main/resources/assets/oremod/lang/en_US.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/10_FirstCompleteMod_Example/src/main/java/com/digitalcraftinghabitat/forgemod/DigitalCraftingHabitatMod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72761196">
+        <state vertical-scroll-proportion="1.1058601">
           <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
           <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3069#3070#0" expanded="false" />
+            <element signature="e#3136#3137#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Ore/src/main/java/OreCraftium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#323#324#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Ore/src/main/java/HelloWorldOre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20604914">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3069#3070#0" expanded="true" />
-            <element signature="e#3136#3137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Ore_Solved/src/main/java/OreCraftium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_Ore_Solved/src/main/java/OreMod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15283018">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -6595,11 +7424,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>dch_hackingDays_workshop_intelliJ</last-edited>
+          <last-edited>05_Ore</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

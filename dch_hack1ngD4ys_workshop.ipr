@@ -44,6 +44,8 @@
             <option value="$PROJECT_DIR$/03_Item_Solved" />
             <option value="$PROJECT_DIR$/04_TileEntity" />
             <option value="$PROJECT_DIR$/04_TileEntity_Solved" />
+            <option value="$PROJECT_DIR$/05_Ore" />
+            <option value="$PROJECT_DIR$/05_Ore_Solved" />
             <option value="$PROJECT_DIR$/10_FirstCompleteMod" />
             <option value="$PROJECT_DIR$/10_FirstCompleteMod_Example" />
           </set>
@@ -194,6 +196,8 @@
       <module fileurl="file://$PROJECT_DIR$/03_Item_Solved/03_Item_Solved.iml" filepath="$PROJECT_DIR$/03_Item_Solved/03_Item_Solved.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_TileEntity/04_TileEntity.iml" filepath="$PROJECT_DIR$/04_TileEntity/04_TileEntity.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_TileEntity_Solved/04_TileEntity_Solved.iml" filepath="$PROJECT_DIR$/04_TileEntity_Solved/04_TileEntity_Solved.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Ore/05_Ore.iml" filepath="$PROJECT_DIR$/05_Ore/05_Ore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Ore_Solved/05_Ore_Solved.iml" filepath="$PROJECT_DIR$/05_Ore_Solved/05_Ore_Solved.iml" />
       <module fileurl="file://$PROJECT_DIR$/10_FirstCompleteMod/10_FirstCompleteMod.iml" filepath="$PROJECT_DIR$/10_FirstCompleteMod/10_FirstCompleteMod.iml" />
       <module fileurl="file://$PROJECT_DIR$/10_FirstCompleteMod_Example/10_FirstCompleteMod_Example.iml" filepath="$PROJECT_DIR$/10_FirstCompleteMod_Example/10_FirstCompleteMod_Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/dch_hack1ngD4ys_workshop.iml" filepath="$PROJECT_DIR$/dch_hack1ngD4ys_workshop.iml" />

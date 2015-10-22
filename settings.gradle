@@ -8,4 +8,6 @@ include '04_TileEntity'
 include '04_TileEntity_Solved'
 include '10_FirstCompleteMod'
 include '10_FirstCompleteMod_Example'
+include '05_Ore'
+include '05_Ore_Solved'
 
