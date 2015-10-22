@@ -1,0 +1,11 @@
+include '01_Command'
+include '02_Block'
+include '01_Command_Solved'
+include '02_Block_Solved'
+include '03_Item'
+include '03_Item_Solved'
+include '04_TileEntity'
+include '04_TileEntity_Solved'
+include '10_FirstCompleteMod'
+include '10_FirstCompleteMod_Example'
+

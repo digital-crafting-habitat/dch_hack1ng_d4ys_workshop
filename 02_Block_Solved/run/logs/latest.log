@@ -1,0 +1,45 @@
+[13:26:51] [main/INFO]: Setting user: Player840
+[13:26:51] [Client thread/INFO]: LWJGL Version: 2.9.1
+[13:26:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:helloworldblocksolved
+[13:26:55] [Sound Library Loader/INFO]: Sound engine started
+[13:26:55] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:26:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:26:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:helloworldblocksolved
+[13:26:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:26:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:26:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:helloworldblocksolved
+[13:26:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:26:57] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:26:57] [Sound Library Loader/INFO]: Sound engine started
+[13:27:02] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[13:27:02] [Server thread/INFO]: Generating keypair
+[13:27:02] [Server thread/INFO]: Preparing start region for level 0
+[13:27:03] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:27:03] [Server thread/INFO]: Player840[local:E:71548fee] logged in with entity id 596 at (185.5, 67.0, 239.5)
+[13:27:03] [Server thread/INFO]: Player840 joined the game
+[13:27:05] [Client thread/INFO]: Warning: Clientside chunk ticking took 210 ms
+[13:27:05] [Client thread/INFO]: Warning: Clientside chunk ticking took 108 ms
+[13:27:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2129ms behind, skipping 42 tick(s)
+[13:27:12] [Client thread/INFO]: Warning: Clientside chunk ticking took 174 ms
+[13:27:12] [Server thread/INFO]: Player840 has just earned the achievement [Taking Inventory]
+[13:27:12] [Client thread/INFO]: [CHAT] Player840 has just earned the achievement [Taking Inventory]
+[13:27:15] [Client thread/INFO]: Warning: Clientside chunk ticking took 103 ms
+[13:27:15] [Client thread/INFO]: Warning: Clientside chunk ticking took 166 ms
+[13:27:15] [Client thread/INFO]: Warning: Clientside chunk ticking took 106 ms
+[13:27:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 129 ms
+[13:27:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[13:27:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 110 ms
+[13:27:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 179 ms
+[13:27:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 132 ms
+[13:27:18] [Client thread/INFO]: Warning: Clientside chunk ticking took 151 ms
+[13:27:20] [Server thread/INFO]: Saving and pausing game...
+[13:27:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[13:27:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[13:27:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[13:27:21] [Server thread/INFO]: Stopping server
+[13:27:21] [Server thread/INFO]: Saving players
+[13:27:21] [Server thread/INFO]: Saving worlds
+[13:27:21] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[13:27:21] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[13:27:21] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[13:27:27] [Client thread/INFO]: Stopping!

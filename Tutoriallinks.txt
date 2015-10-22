@@ -1,0 +1,3 @@
+http://www.minecraftforge.net/wiki/Tutorials - Sammelliste Forge
+http://www.wuppy29.com/minecraft/modding-tutorials/forge-modding-1-7/ - Wuppy's Tutorials
+http://bedrockminer.jimdo.com/modding-tutorials - Bedrockminer's Tutorials (empfohlen)
