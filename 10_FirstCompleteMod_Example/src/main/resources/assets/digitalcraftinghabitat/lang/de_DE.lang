@@ -1,0 +1,23 @@
+#de_DE
+
+item.craftiumCoal.name=Craftiumkohle
+
+item.craftium_ingot.name=Craftiumbarren
+item.dustCraftium.name=Craftiumstaub
+
+tile.craftium_tile.name=Craftiumblock
+tile.energy_block.name=Crafting Energy Block
+tile.craftium_block.name=Craftiumblock
+tile.crafting_lever_block.name=Craftinghebel
+tile.blockController.name=Craftium Controller
+tile.oreCraftium.name=Craftiumerz
+tile.crafting_redstone.name=Craftium Redstone Connector
+
+block.energy_block.name=Crafting Energy Block
+block.craftium_block.name=Craftiumblock
+block.crafting_lever_block.name=Craftinghebel
+block.blockController.name=Craftium Controller
+block.oreCraftium.name=Craftiumerz
+block.crafting_redstone.name=Craftium Redstone Connector
+
+itemGroup.tabdigitalCraftingHabitat=Digital Crafting Habitat
