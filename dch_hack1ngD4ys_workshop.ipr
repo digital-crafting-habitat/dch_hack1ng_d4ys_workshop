@@ -197,7 +197,7 @@
       <module fileurl="file://$PROJECT_DIR$/10_FirstCompleteMod/10_FirstCompleteMod.iml" filepath="$PROJECT_DIR$/10_FirstCompleteMod/10_FirstCompleteMod.iml" />
       <module fileurl="file://$PROJECT_DIR$/10_FirstCompleteMod_Example/10_FirstCompleteMod_Example.iml" filepath="$PROJECT_DIR$/10_FirstCompleteMod_Example/10_FirstCompleteMod_Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/dch_hack1ngD4ys_workshop.iml" filepath="$PROJECT_DIR$/dch_hack1ngD4ys_workshop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dch_hackingDays_workshop_intelliJ.iml" filepath="$PROJECT_DIR$/dch_hackingDays_workshop_intelliJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dch_hack1ng_d4ys_workshop.iml" filepath="$PROJECT_DIR$/dch_hack1ng_d4ys_workshop.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
