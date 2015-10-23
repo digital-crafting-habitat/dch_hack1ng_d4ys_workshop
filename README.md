@@ -1,4 +1,7 @@
 # dch_hack1ng_d4ys_workshop
+[**HomePage**]                (http://digitalcraftinghabitat.de/ "DigitalCraftingHabitat")  
+  
+[**Wiki (WIP)**]              (https://digitalcraftinghabitat.atlassian.net/wiki/display/DCH/Minecraft+Mod "DigitalCraftingHabitat Wiki")
 
 #Vorbereitung#
 
