@@ -10,4 +10,5 @@ gradle-app.setting
 */run/
 */logs/
 *.log
+/*/*.iml
 *.iml
