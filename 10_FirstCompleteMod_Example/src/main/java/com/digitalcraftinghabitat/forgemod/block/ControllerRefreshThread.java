@@ -35,15 +35,18 @@ public class ControllerRefreshThread implements Runnable{
 
     @Override
     public void run() {
+
         int keyValue;
         while (run) {
 
             scanParams = new ScanParams();
             scanParams.match(dchConfiguration.getJedis_prefix() + "*");
+//            scanParams.match("*");
             ScanResult<String> scanResult = connector.getJedis().scan("0", scanParams);
             List<String> keys = scanResult.getResult();
 
             Iterator<String> keyIterator = keys.iterator();
+            System.out.println(keys.size() + " Anzahl KEYS");
 
             while (keyIterator.hasNext()) {
                 String id = keyIterator.next();

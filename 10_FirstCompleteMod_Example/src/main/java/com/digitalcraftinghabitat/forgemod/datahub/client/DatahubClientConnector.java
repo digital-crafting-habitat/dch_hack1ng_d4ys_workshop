@@ -50,6 +50,7 @@ public class DatahubClientConnector {
     public int getIntValueForKey(String valueKey) {
         try {
             String returnedValue = jedis.get(valueKey);
+            System.out.println(valueKey);
 
             if ((returnedValue != null) && (returnedValue.length() > 0)) {
                 int parsedIntegerValue = Integer.parseInt(returnedValue.replaceAll("\\D", ""));

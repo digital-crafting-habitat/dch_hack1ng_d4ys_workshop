@@ -42,12 +42,12 @@ public class RedisValueEntity extends TileEntity {
         } else {
             if ((customField == null) || (customField.length() == 0)) {
                 DCHLog.info("Custom Field is null");
-                customField = DCHConfiguration.getInstance().getJedis_prefix() + count2++;
+                customField = DCHConfiguration.getInstance().getJedis_prefix() + startValueForCount++;
                 MinecraftForge.EVENT_BUS.register(this);
                 //customField = GuiWindow.dchId; //TODO GUI
             }
         }
-        setTime();
+//        setTime();
     }
 
 
@@ -90,13 +90,13 @@ public class RedisValueEntity extends TileEntity {
         super.writeToNBT(par1);
     }
 
-    private static int count2 = 12;
+    private static int startValueForCount = 11;
 
     @Override
     public void readFromNBT(NBTTagCompound par1) {
         this.customField = par1.getString("customField");
         if ((customField == null) || (customField.length() == 0)) {
-            customField = DCHConfiguration.getInstance().getJedis_prefix() + count2++;
+            customField = DCHConfiguration.getInstance().getJedis_prefix() + startValueForCount++;
         }
         MinecraftForge.EVENT_BUS.register(this);
         this.active = par1.getBoolean("active");

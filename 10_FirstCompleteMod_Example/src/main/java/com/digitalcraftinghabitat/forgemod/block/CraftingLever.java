@@ -1,5 +1,6 @@
 package com.digitalcraftinghabitat.forgemod.block;
 
+import com.digitalcraftinghabitat.forgemod.RefStrings;
 import com.digitalcraftinghabitat.forgemod.core.TabDigitalCraftingHabitat;
 import com.digitalcraftinghabitat.forgemod.datahub.client.DatahubClientConnector;
 import com.digitalcraftinghabitat.forgemod.util.DCHLog;
@@ -23,6 +24,7 @@ public class CraftingLever extends BlockLever {
         setCreativeTab(TabDigitalCraftingHabitat.tab);
         this.setResistance(3.0F);
         this.setHardness(5.0F);
+        setBlockTextureName(RefStrings.MODID + ":lever");
     }
 
     @Override
