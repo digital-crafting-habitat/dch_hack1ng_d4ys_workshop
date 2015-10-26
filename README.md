@@ -18,3 +18,4 @@
 * [Forge-Wiki]                              (http://www.minecraftforge.net/wiki/Tutorials "Wiki Forge")
 * [Wuppy's Tutorials]                       (http://www.wuppy29.com/minecraft/modding-tutorials/forge-modding-1-7/ "Wuppy's Tutorials")
 * [Bedrockminer's Tutorials (recommended)]  (http://bedrockminer.jimdo.com/modding-tutorials "Bedrockminer's Tutorials")
+* [Youtube Tutorial GER - VGLyen]           (https://www.youtube.com/playlist?list=PLGLXE1uAxmj2YU4l1-YDOlR5JGBdimTzk "Youtube-Tutorial")
