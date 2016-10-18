@@ -127,7 +127,7 @@ func_70297_j_,getInventoryStackLimit,2,Returns the maximum stack size for a inve
 func_70298_a,decrStackSize,2,Removes from an inventory slot (first arg) up to a specified number (second arg) of items and returns them in a new stack.
 func_70299_a,setInventorySlotContents,2,Sets the given item stack to the specified slot in the inventory (can be crafting or armor sections).
 func_70300_a,isUseableByPlayer,2,Do not make give this method the name canInteractWith because it clashes with Container
-func_70301_a,getStackInSlot,2,Returns the stack in slot i
+func_70301_a,getStackInSlot,2,Returns the stack in slot xcoord
 func_70302_i_,getSizeInventory,2,Returns the number of slots in the inventory.
 func_70304_b,getStackInSlotOnClosing,2,"When some containers are closed they call this on each slot, then drop whatever it returns as an EntityItem - like when you close a workbench GUI."
 func_70305_f,closeInventory,2,
@@ -789,7 +789,7 @@ func_72726_b,doSpawnParticle,0,"Spawns a particle. Arg: particleType, x, y, z, v
 func_72728_f,deleteAllDisplayLists,0,Deletes all display lists
 func_72729_a,clipRenderersByFrustum,0,"Checks all renderers that previously weren't in the frustum and 1/16th of those that previously were in the frustum for frustum clipping Args: frustum, partialTickTime"
 func_72730_g,renderStars,0,
-func_72731_b,drawSelectionBox,0,"Draws the selection box for the player. Args: entityPlayer, rayTraceHit, i, itemStack, partialTickTime"
+func_72731_b,drawSelectionBox,0,"Draws the selection box for the player. Args: entityPlayer, rayTraceHit, xcoord, itemStack, partialTickTime"
 func_72732_a,setWorldAndLoadRenderers,0,set null to clear
 func_72733_a,renderAllRenderLists,0,Render all render lists
 func_72734_e,updateClouds,0,
@@ -876,7 +876,7 @@ func_72904_c,checkChunksExist,2,"Checks between a min and max all the chunks inb
 func_72905_C,getSeed,2,Retrieve the world seed from level.dat
 func_72906_B,checkSessionLock,2,Checks whether the session lock file was modified by another process
 func_72907_a,countEntities,2,Counts how many entities of an entity class exist in the world. Args: entityClass
-func_72908_a,playSoundEffect,2,"Play a sound effect. Many many parameters for this function. Not sure what they do, but a classic call is : (double)i + 0.5D, (double)j + 0.5D, (double)k + 0.5D, 'random.door_open', 1.0F, world.rand.nextFloat() * 0.1F + 0.9F with i,j,k position of the block."
+func_72908_a,playSoundEffect,2,"Play a sound effect. Many many parameters for this function. Not sure what they do, but a classic call is : (double)xcoord + 0.5D, (double)ycoord + 0.5D, (double)zcoord + 0.5D, 'random.door_open', 1.0F, world.rand.nextFloat() * 0.1F + 0.9F with xcoord,ycoord,zcoord position of the block."
 func_72910_y,getLoadedEntityList,0,Accessor for world Loaded Entity List
 func_72911_I,isThundering,2,Returns true if the current thunder strength (weighted with the rain strength) is greater than 0.9
 func_72912_H,getWorldInfo,2,Gets the World's WorldInfo instance
@@ -1072,7 +1072,7 @@ func_74300_a,loadOptions,0,Loads the options from the options file. It appears t
 func_74303_b,saveOptions,0,Saves the options to the options file.
 func_74304_a,setOptionFloatValue,0,"If the specified option is controlled by a slider (float value), this will set the float value."
 func_74305_a,parseFloat,0,Parses a string into a float.
-func_74306_a,setOptionValue,0,"For non-float options. Toggles the option on/off, or cycles through the list i.e. render distances."
+func_74306_a,setOptionValue,0,"For non-float options. Toggles the option on/off, or cycles through the list xcoord.e. render distances."
 func_74308_b,getOptionOrdinalValue,0,
 func_74309_c,shouldRenderClouds,0,Should render clouds
 func_74371_a,checkARBOcclusion,0,Checks if we support OpenGL occlusion.
@@ -1382,7 +1382,7 @@ func_75565_j,removeDeadAndOldAgressors,2,
 func_75566_g,isAnnihilated,2,"Returns true, if there is not a single village door left. Called by VillageCollection"
 func_75567_c,getNumVillageDoors,2,"Actually get num village door info entries, but that boils down to number of doors. Called by EntityAIVillagerMate and VillageSiege"
 func_75568_b,getVillageRadius,2,
-func_75569_c,findNearestDoorUnrestricted,2,"Find a door suitable for shelter. If there are more doors in a distance of 16 blocks, then the least restricted one (i.e. the one protecting the lowest number of villagers) of them is chosen, else the nearest one regardless of restriction."
+func_75569_c,findNearestDoorUnrestricted,2,"Find a door suitable for shelter. If there are more doors in a distance of 16 blocks, then the least restricted one (xcoord.e. the one protecting the lowest number of villagers) of them is chosen, else the nearest one regardless of restriction."
 func_75570_a,isInRange,2,"Returns true, if the given coordinates are within the bounding box of the village."
 func_75571_b,findNearestVillageAggressor,2,
 func_75572_i,updateNumVillagers,2,
@@ -1548,7 +1548,7 @@ func_75918_d,initCraftableStats,2,Initializes statistics related to craftable it
 func_75924_a,replaceAllSimilarBlocks,2,Forces all dual blocks to count for each other on the stats list
 func_75925_c,initStats,2,
 func_75965_j,getNumberFormat,0,
-func_75966_h,initIndependentStat,2,"Initializes the current stat as independent (i.e., lacking prerequisites for being updated) and returns the current instance."
+func_75966_h,initIndependentStat,2,"Initializes the current stat as independent (xcoord.e., lacking prerequisites for being updated) and returns the current instance."
 func_75967_d,isAchievement,2,Returns whether or not the StatBase-derived class is a statistic (running counter) or an achievement (one-shot).
 func_75969_k,getDecimalFormat,0,
 func_75971_g,registerStat,2,Register the stat into StatList.
@@ -1624,7 +1624,7 @@ func_76133_a,sqrt_double,2,
 func_76134_b,cos,2,cos looked up in the sin table with the appropriate offset
 func_76135_e,abs,2,
 func_76136_a,getRandomIntegerInRange,2,
-func_76137_a,bucketInt,0,"Buckets an integer with specifed bucket sizes.  Args: i, bucketSize"
+func_76137_a,bucketInt,0,"Buckets an integer with specifed bucket sizes.  Args: xcoord, bucketSize"
 func_76138_g,wrapAngleTo180_double,2,"the angle is reduced to an angle between -180 and +180 by mod, and a 360 check"
 func_76139_a,stringNullOrLengthZero,0,Tests if a string is null or of length zero
 func_76140_b,truncateDoubleToInt,0,"returns par0 cast as an int, and no greater than Integer.MAX_VALUE-1024"
@@ -2070,7 +2070,7 @@ func_77627_a,setHasSubtypes,2,
 func_77629_n_,shouldRotateAroundWhenRendering,0,Returns true if this item should be rotated by 180 degrees around the Y axis when being held in an entities hands.
 func_77630_h,doesContainerItemLeaveCraftingGrid,2,"If this returns true, after a recipe involving this item is crafted the container item will be added to the player's inventory instead of remaining in the crafting grid."
 func_77631_c,setPotionEffect,2,Sets the string representing this item's effect on a potion when used as an ingredient.
-func_77634_r,hasContainerItem,2,True if this Item has a container item (a.k.a. crafting result)
+func_77634_r,hasContainerItem,2,True if this Item has a container item (a.zcoord.a. crafting result)
 func_77636_d,hasEffect,0,
 func_77637_a,setCreativeTab,2,returns this;
 func_77639_j,getItemStackLimit,2,Returns the maximum size of the stack for a specific item.
@@ -2210,7 +2210,7 @@ func_78263_a,getCharWidth,0,Returns the width of this character as rendered.
 func_78264_a,setUnicodeFlag,0,Set unicodeFlag controlling whether strings should be rendered with Unicode fonts instead of the default.png font.
 func_78265_b,resetStyles,0,Reset all style flag fields in the class to false; called at the start of string rendering
 func_78266_a,renderDefaultChar,0,"Render a single character with the default.png font at current (posX,posY) location..."
-func_78267_b,splitStringWidth,0,Returns the width of the wordwrapped String (maximum length is parameter k)
+func_78267_b,splitStringWidth,0,Returns the width of the wordwrapped String (maximum length is parameter zcoord)
 func_78268_b,renderSplitString,0,Perform actual work of rendering a multi-line string with wordwrap and with darker drop shadow color if flag is set
 func_78269_a,trimStringToWidth,0,Trims a string to fit a specified Width.
 func_78270_c,isFormatSpecial,0,Checks if the char code is O-K...lLrRk-o... used to set special formatting.
@@ -2222,7 +2222,7 @@ func_78275_b,setBidiFlag,0,Set bidiFlag to control if the Unicode Bidirectional 
 func_78276_b,drawString,0,Draws the specified string.
 func_78277_a,renderUnicodeChar,0,"Render a single Unicode character at current (posX,posY) location using one of the /font/glyph_XX.png files..."
 func_78278_a,renderCharAtPos,0,Pick how to render a single character and return the width used.
-func_78279_b,drawSplitString,0,Splits and draws a String with wordwrap (maximum length is parameter k)
+func_78279_b,drawSplitString,0,Splits and draws a String with wordwrap (maximum length is parameter zcoord)
 func_78280_d,wrapFormattedStringToWidth,0,Inserts newline and formatting into a string to wrap it within the specified width.
 func_78282_e,getFormatFromString,0,Digests a string for nonprinting formatting characters then returns a string containing only that formatting.
 func_78324_d,getScaledHeight_double,0,
@@ -2771,7 +2771,7 @@ func_94574_k,getIndirectPowerOutput,2,"Returns the indirect signal strength bein
 func_94576_a,getEntitiesWithinAABBExcludingEntity,2,
 func_94577_B,getBlockPowerInput,2,"Returns the highest redstone signal strength powering the given block. Args: X, Y, Z."
 func_94581_a,registerIcons,0,
-func_94599_c,getItemIconForUseDuration,0,"used to cycle through icons based on their used duration, i.e. for the bow"
+func_94599_c,getItemIconForUseDuration,0,"used to cycle through icons based on their used duration, xcoord.e. for the bow"
 func_94608_d,getItemSpriteNumber,0,
 func_94613_c,getExplosivePlacedBy,2,"Returns either the entity that placed the explosive block, the entity that caused the explosion or null."
 func_94901_k,getSpriteNumber,0,"Returns 0 for /terrain.png, 1 for /gui/items.png"
@@ -3246,7 +3246,7 @@ func_145934_k,canBrew,2,
 func_145935_i,getBrewTime,2,
 func_145939_j,getFilledSlots,2,Returns an integer with each bit specifying whether that slot of the stand contains a potion
 func_145940_l,brewPotions,2,
-func_145948_k,canSmelt,2,"Returns true if the furnace can smelt an item, i.e. has a source item, destination stack isn't full, etc."
+func_145948_k,canSmelt,2,"Returns true if the furnace can smelt an item, xcoord.e. has a source item, destination stack isn't full, etc."
 func_145949_j,smeltItem,2,Turn one item from the furnace source stack into the appropriate smelted item in the furnace result stack
 func_145950_i,isBurning,2,Furnace isBurning
 func_145952_a,getItemBurnTime,2,"Returns the number of ticks that the supplied fuel item will keep the furnace burning, or 0 if the item isn't fuel"
@@ -3304,7 +3304,7 @@ func_146194_f,drawTextBox,0,Draws the textbox
 func_146195_b,setFocused,0,Sets focus to this gui element
 func_146196_d,setCursorPositionZero,0,sets the cursors position to the beginning
 func_146198_h,getCursorPosition,0,returns the current position of the cursor
-func_146199_i,setSelectionPos,0,Sets the position of the selection anchor (i.e. position the selection was started at)
+func_146199_i,setSelectionPos,0,Sets the position of the selection anchor (xcoord.e. position the selection was started at)
 func_146200_o,getWidth,0,returns the width of the textbox depending on if background drawing is enabled
 func_146201_a,textboxKeyTyped,0,Call this method from your GuiScreen to process the keys into the textbox
 func_146202_e,setCursorPositionEnd,0,sets the cursors position to after the text
@@ -3334,7 +3334,7 @@ func_146274_d,handleMouseInput,0,Handles mouse input.
 func_146275_d,setClipboardString,0,Stores the given string in the system clipboard
 func_146276_q_,drawDefaultBackground,0,Draws either a gradient over the background screen (when it exists) or a flat gradient over background.png
 func_146277_j,getClipboardString,0,Returns a string stored in the system clipboard.
-func_146278_c,drawBackground,0,Draws the background (i is always 0 as of 1.2.2)
+func_146278_c,drawBackground,0,Draws the background (xcoord is always 0 as of 1.2.2)
 func_146279_a,drawCreativeTabHoveringText,0,"Draws the text when mouse is over creative inventory tab. Params: current creative tab to be checked, current mouse x position, current mouse y position."
 func_146280_a,setWorldAndResolution,0,Causes the screen to lay out its subcomponents again. This is the equivalent of the Java call Container.validate()
 func_146281_b,onGuiClosed,0,Called when the screen is unloaded. Used to disable keyboard repeat events
@@ -3838,7 +3838,7 @@ func_148840_b,writePacketData,2,Writes the raw packet data to the data stream.
 func_149633_g,getSelectedBoundingBoxFromPool,0,Returns the bounding box of the wired rectangular prism to render.
 func_149634_a,getBlockFromItem,2,
 func_149635_D,getBlockColor,0,
-func_149636_a,harvestBlock,2,"Called when the player destroys a block with an item that can harvest it. (i, j, k) are the coordinates of the block and l is the block's subtype/damage."
+func_149636_a,harvestBlock,2,"Called when the player destroys a block with an item that can harvest it. (xcoord, ycoord, zcoord) are the coordinates of the block and l is the block's subtype/damage."
 func_149637_q,isBlockNormalCube,0,Indicate if a material is a normal solid opaque cube
 func_149638_a,getExplosionResistance,2,Returns how much this block can resist explosions from the passed in entity.
 func_149639_l,fillWithRain,2,currently only used by BlockCauldron to incrament meta-data during rain
@@ -3846,7 +3846,7 @@ func_149640_a,velocityToAddToEntity,2,"Can add to the passed in vector for a mov
 func_149641_N,getTextureName,0,
 func_149642_a,dropBlockAsItem,2,Spawns EntityItem in the world for the given ItemStack if the world is not remote.
 func_149643_k,getDamageValue,2,Get the block's damage value (for use with pick block).
-func_149644_j,createStackedBlock,2,Returns an item stack containing a single instance of the current block type. 'i' is the block's subtype/damage and is ignored for blocks which do not support subtypes. Blocks which cannot be harvested should return null.
+func_149644_j,createStackedBlock,2,Returns an item stack containing a single instance of the current block type. 'xcoord' is the block's subtype/damage and is ignored for blocks which do not support subtypes. Blocks which cannot be harvested should return null.
 func_149645_b,getRenderType,2,The type of render function that is called for this block
 func_149646_a,shouldSideBeRendered,0,"Returns true if the given side of this block type should be rendered, if the adjacent block is at the given coordinates.  Args: blockAccess, x, y, z, side"
 func_149647_a,setCreativeTab,2,
@@ -3881,7 +3881,7 @@ func_149675_a,setTickRandomly,2,Sets whether this block type will receive random
 func_149676_a,setBlockBounds,2,"Sets the bounds of the block.  minX, minY, minZ, maxX, maxY, maxZ"
 func_149677_c,getMixedBrightnessForBlock,0,"How bright to render this block based on the light its receiving. Args: iBlockAccess, x, y, z"
 func_149678_a,canCollideCheck,2,Returns whether this block is collideable based on the arguments passed in \n@param par1 block metaData \n@param par2 whether the player right-clicked while holding a boat
-func_149679_a,quantityDroppedWithBonus,2,Returns the usual quantity dropped by the block plus a bonus of 1 to 'i' (inclusive).
+func_149679_a,quantityDroppedWithBonus,2,Returns the usual quantity dropped by the block plus a bonus of 1 to 'xcoord' (inclusive).
 func_149680_a,isEqualTo,2,
 func_149681_a,onBlockHarvested,2,Called when the block is attempted to be harvested
 func_149682_b,getIdFromBlock,2,

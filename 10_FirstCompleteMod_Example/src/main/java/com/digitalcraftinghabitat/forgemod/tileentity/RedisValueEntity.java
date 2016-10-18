@@ -25,6 +25,7 @@ public class RedisValueEntity extends TileEntity {
     private boolean active;
     private int count;
 
+
     public RedisValueEntity() {
         if (datahubClientConnector == null) {
             datahubClientConnector = new DatahubClientConnector();
@@ -47,7 +48,6 @@ public class RedisValueEntity extends TileEntity {
                 //customField = GuiWindow.dchId; //TODO GUI
             }
         }
-        setTime();
     }
 
 
@@ -69,14 +69,6 @@ public class RedisValueEntity extends TileEntity {
                 worldObj.notifyBlockChange(xCoord, yCoord, zCoord, blockType);
             }
         }
-    }
-
-    private void setTime() {
-        int time;
-        int lightvalue = datahubClientConnector.getIntValueForKey("light_sensor");
-
-        time = lightvalue * 40;
-        worldObj.setWorldTime(time);
     }
 
     public boolean isActive() {

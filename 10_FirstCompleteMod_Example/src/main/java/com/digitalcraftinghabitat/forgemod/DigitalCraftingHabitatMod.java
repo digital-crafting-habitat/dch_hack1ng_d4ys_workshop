@@ -2,6 +2,7 @@ package com.digitalcraftinghabitat.forgemod;
 
 import com.digitalcraftinghabitat.forgemod.block.*;
 import com.digitalcraftinghabitat.forgemod.core.CraftCommand;
+import com.digitalcraftinghabitat.forgemod.core.UpdateTimeCommand;
 import com.digitalcraftinghabitat.forgemod.event.WorldGen;
 import com.digitalcraftinghabitat.forgemod.event.consumer.BreakMessageEventConsumer;
 import com.digitalcraftinghabitat.forgemod.item.DustCraftium;
@@ -81,6 +82,7 @@ public class DigitalCraftingHabitatMod {
     public void registerCommands(FMLServerStartingEvent event) {
 
         event.registerServerCommand(new CraftCommand());
+        event.registerServerCommand(new UpdateTimeCommand());
 
     }
 

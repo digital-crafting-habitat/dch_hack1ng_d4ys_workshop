@@ -219,7 +219,7 @@ field_70721_aZ,limbSwingAmount,2,
 field_70722_aY,prevLimbSwingAmount,2,
 field_70723_bA,senses,2,
 field_70724_aR,attackTime,2,
-field_70725_aQ,deathTime,2,"The amount of time remaining this entity should act 'dead', i.e. have a corpse in the world."
+field_70725_aQ,deathTime,2,"The amount of time remaining this entity should act 'dead', xcoord.e. have a corpse in the world."
 field_70726_aT,cameraPitch,2,
 field_70727_aS,prevCameraPitch,2,
 field_70728_aV,experienceValue,2,The experience points the Entity gives.
@@ -704,7 +704,7 @@ field_72988_C,mapStorage,2,
 field_72990_M,ambientTickCountdown,2,number of ticks until the next random ambients play
 field_72992_H,spawnPeacefulMobs,2,A flag indicating whether we should spawn peaceful mobs.
 field_72993_I,activeChunkSet,2,Positions to update
-field_72994_J,lightUpdateBlockList,2,"is a temporary list of blocks and light values used when updating light levels. Holds up to 32x32x32 blocks (the maximum influence of a light source.) Every element is a packed bit value: 0000000000LLLLzzzzzzyyyyyyxxxxxx. The 4-bit L is a light level used when darkening blocks. 6-bit numbers x, y and z represent the block's offset from the original block, plus 32 (i.e. value of 31 would mean a -1 offset"
+field_72994_J,lightUpdateBlockList,2,"is a temporary list of blocks and light values used when updating light levels. Holds up to 32x32x32 blocks (the maximum influence of a light source.) Every element is a packed bit value: 0000000000LLLLzzzzzzyyyyyyxxxxxx. The 4-bit L is a light level used when darkening blocks. 6-bit numbers x, y and z represent the block's offset from the original block, plus 32 (xcoord.e. value of 31 would mean a -1 offset"
 field_72995_K,isRemote,2,"This is set to true for client worlds, and false for server worlds."
 field_72996_f,loadedEntityList,2,A list of all Entities in all currently-loaded chunks
 field_72997_g,unloadedEntityList,2,
@@ -871,7 +871,7 @@ field_73714_c,listActive,2,set to true if not singlePlayer
 field_73715_a,theBanList,2,
 field_73716_a,theServer,2,Instance of MinecraftServer.
 field_73725_b,mc,0,A reference to the Minecraft object.
-field_73726_c,currentlyDisplayedText,0,The text currently displayed (i.e. the argument to the last call to printText or func_73722_d)
+field_73726_c,currentlyDisplayedText,0,The text currently displayed (xcoord.e. the argument to the last call to printText or func_73722_d)
 field_73735_i,zLevel,0,
 field_73837_f,updateCounter,0,
 field_73838_g,recordPlaying,0,The string specifying which record music is playing
@@ -2261,7 +2261,7 @@ field_78299_w,strikethroughStyle,0,"Set if the ""m"" style (strikethrough) is ac
 field_78300_v,underlineStyle,0,"Set if the ""n"" style (underlined) is active in currently rendering string"
 field_78301_u,italicStyle,0,"Set if the ""o"" style (italic) is active in currently rendering string"
 field_78302_t,boldStyle,0,"Set if the ""l"" style (bold) is active in currently rendering string"
-field_78303_s,randomStyle,0,"Set if the ""k"" style (random) is active in currently rendering string"
+field_78303_s,randomStyle,0,"Set if the ""zcoord"" style (random) is active in currently rendering string"
 field_78304_r,textColor,0,Text color of the currently rendering string.
 field_78305_q,alpha,0,Used to speify new alpha value for the current color.
 field_78306_p,green,0,Used to specify new green value for the current color.
@@ -2434,7 +2434,7 @@ field_78835_a,theWorldClient,0,Reference to the WorldClient object.
 field_78843_d,serverMOTD,0,(better variable name would be 'hostname') server name as displayed in the server browser's second line (grey text)
 field_78844_e,pingToServer,0,last server ping that showed up in the server browser
 field_78845_b,serverIP,0,
-field_78846_c,populationInfo,0,"the string indicating number of players on and capacity of the server that is shown on the server browser (i.e. ""5/20"" meaning 5 slots used out of 20 slots total)"
+field_78846_c,populationInfo,0,"the string indicating number of players on and capacity of the server that is shown on the server browser (xcoord.e. ""5/20"" meaning 5 slots used out of 20 slots total)"
 field_78847_a,serverName,0,
 field_78848_h,acceptsTextures,0,
 field_78858_b,servers,0,List of ServerData instances.

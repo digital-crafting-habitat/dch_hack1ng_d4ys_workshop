@@ -81,7 +81,7 @@ public class DatahubClientConnector {
     }
 
     public void setIntValueForKey(String key, int value) {
-        jedis.set(key, String.valueOf(value));
+        jedis.hset("reactor",key, String.valueOf(value));
     }
 
 }
