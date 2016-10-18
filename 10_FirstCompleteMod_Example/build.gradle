@@ -13,6 +13,7 @@ buildscript {
     dependencies {
         classpath 'net.minecraftforge.gradle:ForgeGradle:1.2-SNAPSHOT'
         classpath 'io.spring.gradle:dependency-management-plugin:0.5.2.RELEASE'
+        classpath files('libs/jedis-2.7.3.jar')
     }
 }
 
@@ -35,6 +36,12 @@ dependencies {
     'org.apache.commons:commons-io:1.3.2'
     'com.googlecode.json-simple:json-simple:1.1'
     'org.springframework.ldap:spring-ldap-core:2.0.3.RELEASE'
+}
+
+dependencies {
+    compile files (
+            'lib/jedis-2.7.3.jar'
+    )
 }
 
 compileJava.options.encoding = 'UTF-8'

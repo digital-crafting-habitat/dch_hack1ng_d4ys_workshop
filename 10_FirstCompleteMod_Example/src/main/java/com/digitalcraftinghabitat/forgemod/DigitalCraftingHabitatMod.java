@@ -14,7 +14,6 @@ import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.Mod.Instance;
 import cpw.mods.fml.common.event.*;
 import cpw.mods.fml.common.registry.GameRegistry;
-import net.minecraft.client.Minecraft;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.common.config.Configuration;
 import net.minecraftforge.event.entity.living.LivingEvent;
@@ -70,7 +69,7 @@ public class DigitalCraftingHabitatMod {
 
     @EventHandler
     public void postInit(FMLPostInitializationEvent event) {
-        Minecraft.getMinecraft().scheduleResourcesRefresh();
+//        Minecraft.getMinecraft().scheduleResourcesRefresh();
     }
 
     @EventHandler
