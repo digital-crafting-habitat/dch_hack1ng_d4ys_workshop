@@ -47,7 +47,7 @@ public class RedisValueEntity extends TileEntity {
                 //customField = GuiWindow.dchId; //TODO GUI
             }
         }
-//        setTime();
+        setTime();
     }
 
 

@@ -49,7 +49,7 @@ public class DatahubClientConnector {
 
     public int getIntValueForKey(String valueKey) {
         try {
-            String returnedValue = jedis.get(valueKey);
+            String returnedValue = jedis.hget("reactor",valueKey);
             System.out.println(valueKey);
 
             if ((returnedValue != null) && (returnedValue.length() > 0)) {
@@ -68,7 +68,7 @@ public class DatahubClientConnector {
     }
 
     public void setValueForKey(String valueKey, String value) {
-        jedis.set(valueKey, value);
+        jedis.hset("reactor", valueKey, value);
     }
 
     public float getFloatValueForKey(String key) {
